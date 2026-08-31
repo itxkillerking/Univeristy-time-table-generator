@@ -19,14 +19,12 @@ environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
 SECRET_KEY = env('SECRET_KEY', default='django-insecure-default-key')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = env('DEBUG')
+DEBUG = env('DEBUG', default=False)
 
 ALLOWED_HOSTS = env.list('ALLOWED_HOSTS', default=[
-    'MrJawadAhmed.pythonanywhere.com',
+    'mrjawadahmed.pythonanywhere.com',
     'localhost',
     '127.0.0.1',
-    '.pythonanywhere.com',
-    '.vercel.app',
 ])
 
 
@@ -131,20 +129,21 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # --- Custom Configuration ---
 
 # CORS & CSRF Configuration
-_cors_defaults = [
-    'https://univeristy-time-table-generator.vercel.app',
-    'http://localhost:5173',
-    'http://127.0.0.1:5173',
+CORS_ALLOWED_ORIGINS = [
+    "https://univeristy-time-table-generator.vercel.app",
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    origin.rstrip('/') for origin in env.list('CORS_ALLOWED_ORIGINS', default=_cors_defaults)
-]
-CORS_ALLOW_CREDENTIALS = True  # Required for cookies
+CORS_ALLOW_CREDENTIALS = True
 
 CSRF_TRUSTED_ORIGINS = [
-    origin.rstrip('/') for origin in env.list('CSRF_TRUSTED_ORIGINS', default=_cors_defaults)
+    "https://univeristy-time-table-generator.vercel.app",
 ]
+
+# Cookie Security Configuration (Cross-site HTTPS between Vercel and PythonAnywhere)
+SESSION_COOKIE_SAMESITE = 'None' if not DEBUG else 'Lax'
+SESSION_COOKIE_SECURE = not DEBUG
+CSRF_COOKIE_SAMESITE = 'None' if not DEBUG else 'Lax'
+CSRF_COOKIE_SECURE = not DEBUG
 
 # REST Framework Configuration
 REST_FRAMEWORK = {
@@ -170,6 +169,9 @@ REST_AUTH = {
     'JWT_AUTH_COOKIE': 'my-app-auth',
     'JWT_AUTH_REFRESH_COOKIE': 'my-refresh-token',
     'JWT_AUTH_HTTPONLY': True, # Tokens in HttpOnly cookies
+    'JWT_AUTH_SAMESITE': 'None' if not DEBUG else 'Lax',
+    'JWT_AUTH_SECURE': not DEBUG,
     'JWT_AUTH_RETURN_EXPIRATION': True,
     'USER_DETAILS_SERIALIZER': 'accounts.serializers.UserSerializer',
 }
+
