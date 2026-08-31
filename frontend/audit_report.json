@@ -1,0 +1,150 @@
+{
+  "1st Semester": {
+    "sections": [
+      "BSCS-1K"
+    ],
+    "pdf_occupied_cells": 10,
+    "extracted_entries": 10,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "2nd Semester": {
+    "sections": [
+      "BSCS-2E",
+      "BSCS-2A",
+      "BSCS-2B",
+      "BSCS-2C",
+      "BSCS-2D"
+    ],
+    "pdf_occupied_cells": 62,
+    "extracted_entries": 62,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "3rd Semester": {
+    "sections": [
+      "BSCS-3J",
+      "BSCS-3I",
+      "BSCS-3K",
+      "BSCS-3Q",
+      "BSCS-3A",
+      "BSCS-3F",
+      "BSCS-3E",
+      "BSCS-3N",
+      "BSCS-3H",
+      "BSCS-3M",
+      "BSCS-3C",
+      "BSCS-3D",
+      "BSCS-3L",
+      "BSCS-3G",
+      "BSCS-3B"
+    ],
+    "pdf_occupied_cells": 184,
+    "extracted_entries": 184,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "4th Semester": {
+    "sections": [
+      "BSCS-4F",
+      "BSCS-4E",
+      "BSCS-4G",
+      "BSCS-4A",
+      "BSCS-4D",
+      "BSCS-4B",
+      "BSCS-4C"
+    ],
+    "pdf_occupied_cells": 91,
+    "extracted_entries": 91,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "5th Semester": {
+    "sections": [
+      "BSCS-5J",
+      "BSCS-5E",
+      "BSCS-5O",
+      "BSCS-5F",
+      "BSCS-5K",
+      "BSCS-5H",
+      "BSCS-5D",
+      "BSCS-5C",
+      "BSCS-5I",
+      "BSCS-5M",
+      "BSCS-5A",
+      "BSCS-5G",
+      "BSCS-5B",
+      "BSCS-5L"
+    ],
+    "pdf_occupied_cells": 214,
+    "extracted_entries": 214,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "6th Semester": {
+    "sections": [
+      "BSCS-6A",
+      "BSCS-6H",
+      "BSCS-6C",
+      "BSCS-6B",
+      "BSCS-6E",
+      "BSCS-6G",
+      "BSCS-6F",
+      "BSCS-6D"
+    ],
+    "pdf_occupied_cells": 96,
+    "extracted_entries": 96,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "7th Semester": {
+    "sections": [
+      "BSCS-7A",
+      "BSCS-7H",
+      "BSCS-7I",
+      "BSCS-7K",
+      "BSCS-7C",
+      "BSCS-7M",
+      "BSCS-7B",
+      "BSCS-7D",
+      "BSCS-7F",
+      "BSCS-7J",
+      "BSCS-7L",
+      "BSCS-7G",
+      "BSCS-7E"
+    ],
+    "pdf_occupied_cells": 131,
+    "extracted_entries": 131,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  },
+  "8th Semester": {
+    "sections": [
+      "BSCS-8C",
+      "BSCS-8D",
+      "BSCS-8A",
+      "BSCS-8B",
+      "BSCS-8E"
+    ],
+    "pdf_occupied_cells": 40,
+    "extracted_entries": 40,
+    "unresolved_cells": 0,
+    "missing_cells": 0,
+    "unresolved_list": [],
+    "missing_list": []
+  }
+}

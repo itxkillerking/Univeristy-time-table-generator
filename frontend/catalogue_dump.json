@@ -1,0 +1,428 @@
+[
+  {
+    "semester": "1st Semester",
+    "courseName": "Applications of Information & Communication Technologies  3",
+    "aliases": [
+      "AICT",
+      "2-3"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "1st Semester",
+    "courseName": "QR1 Discrete Structures",
+    "aliases": [
+      "Discrete"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "1st Semester",
+    "courseName": "Islamic Studies",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "1st Semester",
+    "courseName": "Functional English",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "1st Semester",
+    "courseName": "Applied Physics 3",
+    "aliases": [
+      "2-3"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "1st Semester",
+    "courseName": "Ideology and Constitution of Pakistan",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "1st Semester",
+    "courseName": "Pre-Calculus I",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Digital Logic Design",
+    "aliases": [
+      "DLD"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Programming Fundamentals",
+    "aliases": [
+      "PF"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Expository Writing",
+    "aliases": [
+      "E.Writing"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Probability & Statistics",
+    "aliases": [
+      "Prob. Stat"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Professional Practices",
+    "aliases": [
+      "PP"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Civics and Community Engagement",
+    "aliases": [
+      "Civics & CE"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Pre-Calculus II",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "2nd Semester",
+    "courseName": "Understanding of Holy Quran-1",
+    "aliases": [
+      "Quran-1"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "3rd Semester",
+    "courseName": "Object Oriented Programming",
+    "aliases": [
+      "OOP"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "3rd Semester",
+    "courseName": "Computer Organization and Assembly Language",
+    "aliases": [
+      "COAL"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "3rd Semester",
+    "courseName": "Compiuter Networks",
+    "aliases": [
+      "CN"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "3rd Semester",
+    "courseName": "Software Engineering",
+    "aliases": [
+      "SE"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "3rd Semester",
+    "courseName": "Calculus and Analytical Geometry",
+    "aliases": [
+      "Calculus"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Data Structures  -",
+    "aliases": [
+      "DS"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Database Systems  -",
+    "aliases": [
+      "DB"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Information Security",
+    "aliases": [
+      "IS"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Linear Algebra  -",
+    "aliases": [
+      "Linear"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Entrepreneurship -",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Introduction to Management",
+    "aliases": [
+      "Mngmnt"
+    ],
+    "isElective": true,
+    "electiveGroup": "Mngmnt-HRM"
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Human Resource Management",
+    "aliases": [
+      "HRM"
+    ],
+    "isElective": true,
+    "electiveGroup": "Mngmnt-HRM"
+  },
+  {
+    "semester": "4th Semester",
+    "courseName": "Understanding of Holy Quran-2",
+    "aliases": [
+      "Quran-2"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "5th Semester",
+    "courseName": "Artificial Intelligence",
+    "aliases": [
+      "AI"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "5th Semester",
+    "courseName": "Advanced Database Management Systems",
+    "aliases": [
+      "Adv. DBMS"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "5th Semester",
+    "courseName": "Operating Systems",
+    "aliases": [
+      "OS"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "5th Semester",
+    "courseName": "Theory of Automata",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "5th Semester",
+    "courseName": "Analysis of Algorithm",
+    "aliases": [
+      "AA"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "5th Semester",
+    "courseName": "Web Engineering",
+    "aliases": [
+      "Web"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "6th Semester",
+    "courseName": "Operating Systems",
+    "aliases": [
+      "OS"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "6th Semester",
+    "courseName": "Computer Networks",
+    "aliases": [
+      "C.Network/CN"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "6th Semester",
+    "courseName": "Software Project Management",
+    "aliases": [
+      "SPM"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "6th Semester",
+    "courseName": "Advance Software Engineering",
+    "aliases": [
+      "Adv. SE"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "6th Semester",
+    "courseName": "Technical and Business Writing",
+    "aliases": [
+      "T&BW"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "Artificial Intelligence  4 Intro to Machine Learning",
+    "aliases": [
+      "AI",
+      "3+1",
+      "ML"
+    ],
+    "isElective": true,
+    "electiveGroup": "AI-MAD"
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "Mobile Application Development(CS",
+    "aliases": [
+      "MAD"
+    ],
+    "isElective": true,
+    "electiveGroup": "AI-MAD"
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "3",
+    "aliases": [
+      "3+0"
+    ],
+    "isElective": true,
+    "electiveGroup": "3+0-2-1"
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "3 Elec-III)",
+    "aliases": [
+      "2-1"
+    ],
+    "isElective": true,
+    "electiveGroup": "3+0-2-1"
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "Parallel and Distributed Computing",
+    "aliases": [
+      "PDC"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "Entrepreneurship",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "Career Development Course",
+    "aliases": [
+      "CDC"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "7th Semester",
+    "courseName": "Final Year Project-I",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "Information Security  3 Distributed database Systems",
+    "aliases": [
+      "IS",
+      "Core",
+      "3+0",
+      "DDBS"
+    ],
+    "isElective": true,
+    "electiveGroup": "IS-ANN"
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "Artificial Neural Networks (CS",
+    "aliases": [
+      "ANN"
+    ],
+    "isElective": true,
+    "electiveGroup": "IS-ANN"
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "3",
+    "aliases": [
+      "3+0"
+    ],
+    "isElective": true,
+    "electiveGroup": "3+0-3+0"
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "3 Elec-IV)",
+    "aliases": [
+      "3+0"
+    ],
+    "isElective": true,
+    "electiveGroup": "3+0-3+0"
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "Software Testing and Implementation",
+    "aliases": [],
+    "isElective": false
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "Organization Behavior & Culture",
+    "aliases": [
+      "OB"
+    ],
+    "isElective": false
+  },
+  {
+    "semester": "8th Semester",
+    "courseName": "Final Year Project-II",
+    "aliases": [],
+    "isElective": false
+  }
+]

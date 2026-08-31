@@ -1,0 +1,8303 @@
+{
+  "stats": {
+    "pages_processed": 7,
+    "total_schedule_entries": 712,
+    "multi_period_entries": 442,
+    "missing_rooms": 4,
+    "unresolved_cells": 0,
+    "duplicate_candidates": 0
+  },
+  "extracted_cells": [
+    {
+      "section": "BSCS-1K",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Shaukat Hayat\nApplied Phy.(2hr)\nLB3-02",
+      "lines": [
+        "Shaukat Hayat",
+        "Applied Phy.(2hr)"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "CS-002\nDiscrete\nShoaib\nAhmad",
+      "lines": [
+        "Discrete",
+        "Shoaib",
+        "Ahmad"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "LB3-07\nFunction\nal Englis\nh\nHajra\nMueen",
+      "lines": [
+        "Function",
+        "al Englis",
+        "h",
+        "Hajra",
+        "Mueen"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "LB3-08\nAICT\nAbdullah\nShahani",
+      "lines": [
+        "AICT",
+        "Abdullah",
+        "Shahani"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "LAB EE1-30\n8\nPhy\n(LAB)\nShaukat\nHayat",
+      "lines": [
+        "Phy",
+        "(LAB)",
+        "Shaukat",
+        "Hayat"
+      ],
+      "room": "LAB EE1-308"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "Abdullah Shahani\nAICT (Lab)\nLAB-CS-305",
+      "lines": [
+        "Abdullah Shahani",
+        "AICT (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-511\nAICT\nAbdullah\nShahani",
+      "lines": [
+        "AICT",
+        "Abdullah",
+        "Shahani"
+      ],
+      "room": "FIT-511"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Wednesday",
+      "time": "11:00-12:15",
+      "raw": "FIT-511\nDiscrete\nShoaib\nAhmad",
+      "lines": [
+        "Discrete",
+        "Shoaib",
+        "Ahmad"
+      ],
+      "room": "FIT-511"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "Required\nLAB2\nFunction\nal Englis\nh\nHajra\nMueen",
+      "lines": [
+        "LAB2",
+        "Function",
+        "al Englis",
+        "h",
+        "Hajra",
+        "Mueen"
+      ],
+      "room": "Required"
+    },
+    {
+      "section": "BSCS-1K",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Umaima\nPre Cal-1\nFIT-511",
+      "lines": [
+        "Umaima",
+        "Pre Cal-1"
+      ],
+      "room": "FIT-511"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "LB3-05\nE.Writin\ng\nMarva\nNoor",
+      "lines": [
+        "E.Writin",
+        "g",
+        "Marva",
+        "Noor"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Monday",
+      "time": "09:30-13:45",
+      "raw": "CS-201\nDLD\nSehar\nAshraf",
+      "lines": [
+        "DLD",
+        "Sehar",
+        "Ashraf"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "CS-001\nPF\nDr. Nadee\nm",
+      "lines": [
+        "PF",
+        "Dr. Nadee",
+        "m"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "CS-201\nProb.\nStat\nDr. Farah",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr. Farah"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "Sehar Ashraf\nDLD (Lab)\nDLD-LAB-(CS&IT)",
+      "lines": [
+        "Sehar Ashraf",
+        "DLD (Lab)",
+        "DLD-LAB-(CS&IT)"
+      ],
+      "room": null
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "Aiman Mujeeb\nCivics & CE (2hr)\nCS-003",
+      "lines": [
+        "Aiman Mujeeb",
+        "Civics & CE (2hr)"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "LB3-03\nProb.\nStat\nDr. Farah",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr. Farah"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-002\nPF\nDr. Nadee\nm",
+      "lines": [
+        "PF",
+        "Dr. Nadee",
+        "m"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "LB3-06\nDLD\nSehar\nAshraf",
+      "lines": [
+        "DLD",
+        "Sehar",
+        "Ashraf"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-02\nE.Writin\ng\nMarva\nNoor",
+      "lines": [
+        "E.Writin",
+        "g",
+        "Marva",
+        "Noor"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Thursday",
+      "time": "08:00-13:45",
+      "raw": "Afaq\nPF (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Afaq",
+        "PF (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-2A",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "M. Azeem\nPP (2hr)\nLB3-04",
+      "lines": [
+        "M. Azeem",
+        "PP (2hr)"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-2B",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-104\nPF\nDr. Imran",
+      "lines": [
+        "PF",
+        "Dr. Imran"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-2B",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "M. Azeem\nPP (2hr)\nCS-003",
+      "lines": [
+        "M. Azeem",
+        "PP (2hr)"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-2B",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "Aiman Mujeeb\nCivics & CE (2hr)\nLB3-05",
+      "lines": [
+        "Aiman Mujeeb",
+        "Civics & CE (2hr)"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-2B",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "Afaq\nPF (Lab)\nLAB-CS-002",
+      "lines": [
+        "Afaq",
+        "PF (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-2B",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-002\nDLD\nRizwan\nKhan",
+      "lines": [
+        "DLD",
+        "Rizwan",
+        "Khan"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-2B",
+      "day": "Friday",
+      "time": "08:00-16:45",
+      "raw": "Dr. M Jawaz\nPre Cal-2\nCS-104",
+      "lines": [
+        "Dr. M Jawaz",
+        "Pre Cal-2"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "CS-002\nDLD\nRizwan\nKhan",
+      "lines": [
+        "DLD",
+        "Rizwan",
+        "Khan"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Monday",
+      "time": "09:30-10:45",
+      "raw": "CS-001\nPF\nDr. Imran",
+      "lines": [
+        "PF",
+        "Dr. Imran"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "CS-005\nProb.\nStat\nDr. Farah",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr. Farah"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Dr. M Jawaz\nPre Cal-2\nCS-003",
+      "lines": [
+        "Dr. M Jawaz",
+        "Pre Cal-2"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Tuesday",
+      "time": "08:00-13:45",
+      "raw": "Afaq\nPF (Lab)\nLAB-CS-002",
+      "lines": [
+        "Afaq",
+        "PF (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "Rizwan Khan\nDLD (Lab)\nDLD-LAB-(CS&IT)",
+      "lines": [
+        "Rizwan Khan",
+        "DLD (Lab)",
+        "DLD-LAB-(CS&IT)"
+      ],
+      "room": null
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "LB3-108\nE.Writin\ng\nE2",
+      "lines": [
+        "E.Writin",
+        "g",
+        "E2"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Wednesday",
+      "time": "11:00-12:15",
+      "raw": "LB3-01\nProb.\nStat\nDr. Farah",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr. Farah"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Wednesday",
+      "time": "12:30-16:45",
+      "raw": "CS-001\nPF\nDr. Imran",
+      "lines": [
+        "PF",
+        "Dr. Imran"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "FIT-501\nE.Writin\ng\nE2",
+      "lines": [
+        "E.Writin",
+        "g",
+        "E2"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Thursday",
+      "time": "09:30-13:45",
+      "raw": "CS-002\nDLD\nRizwan\nKhan",
+      "lines": [
+        "DLD",
+        "Rizwan",
+        "Khan"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "C1\nCivics & CE (2hr)\nLB3-06",
+      "lines": [
+        "Civics & CE (2hr)",
+        "LB3-06"
+      ],
+      "room": "C1"
+    },
+    {
+      "section": "BSCS-2C",
+      "day": "Friday",
+      "time": "11:00-16:45",
+      "raw": "M. Azeem\nPP (2hr)\nLB3-06",
+      "lines": [
+        "M. Azeem",
+        "PP (2hr)"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "CS-201\nPF\nMuhamm\nad",
+      "lines": [
+        "PF",
+        "Muhamm",
+        "ad"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Monday",
+      "time": "09:30-12:15",
+      "raw": "CS-002\nProb.\nStat\nDr. Farah",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr. Farah"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "FIT-307\nE.Writin\ng\nMarva\nNoor",
+      "lines": [
+        "E.Writin",
+        "g",
+        "Marva",
+        "Noor"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Sehar Ashraf\nDLD (Lab)\nDLD-LAB-(CS&IT)",
+      "lines": [
+        "Sehar Ashraf",
+        "DLD (Lab)",
+        "DLD-LAB-(CS&IT)"
+      ],
+      "room": null
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "Muhammad\nPF (Lab)\nLAB-CS-301",
+      "lines": [
+        "Muhammad",
+        "PF (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Tuesday",
+      "time": "11:00-15:15",
+      "raw": "M. Azeem\nPP (2hr)\nLB3-04",
+      "lines": [
+        "M. Azeem",
+        "PP (2hr)"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-204\nDLD\nSehar\nAshraf",
+      "lines": [
+        "DLD",
+        "Sehar",
+        "Ashraf"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "LB3-03\nE.Writin\ng\nMarva\nNoor",
+      "lines": [
+        "E.Writin",
+        "g",
+        "Marva",
+        "Noor"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Wednesday",
+      "time": "12:30-15:15",
+      "raw": "CS-201\nPF\nMuhamm\nad",
+      "lines": [
+        "PF",
+        "Muhamm",
+        "ad"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-001\nDLD\nSehar\nAshraf",
+      "lines": [
+        "DLD",
+        "Sehar",
+        "Ashraf"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "C1\nCivics & CE (2hr)\nCS-001",
+      "lines": [
+        "Civics & CE (2hr)",
+        "CS-001"
+      ],
+      "room": "C1"
+    },
+    {
+      "section": "BSCS-2D",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "LB3-02\nProb.\nStat\nDr. Farah",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr. Farah"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Fareeha Ashfaq\nDLD (Lab)\nDLD-LAB-(CS&IT)",
+      "lines": [
+        "Fareeha Ashfaq",
+        "DLD (Lab)",
+        "DLD-LAB-(CS&IT)"
+      ],
+      "room": null
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "CS-201\nPF\nMuhamm\nad",
+      "lines": [
+        "PF",
+        "Muhamm",
+        "ad"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "LB3-06\nProb.\nStat\nDr.\nRomana",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr.",
+        "Romana"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "FIT-501\nE.Writin\ng\nE2",
+      "lines": [
+        "E.Writin",
+        "g",
+        "E2"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "FIT-307\nDLD\nFareeha\nAshfaq",
+      "lines": [
+        "DLD",
+        "Fareeha",
+        "Ashfaq"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-201\nPF\nMuhamm\nad",
+      "lines": [
+        "PF",
+        "Muhamm",
+        "ad"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "CS-001\nE.Writin\ng\nE2",
+      "lines": [
+        "E.Writin",
+        "g",
+        "E2"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-002\nProb.\nStat\nDr.\nRomana",
+      "lines": [
+        "Prob.",
+        "Stat",
+        "Dr.",
+        "Romana"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Wednesday",
+      "time": "08:00-13:45",
+      "raw": "Muhammad\nPF (Lab)\nLAB-CS-301",
+      "lines": [
+        "Muhammad",
+        "PF (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "C1\nCivics & CE (2hr)\nLB3-07",
+      "lines": [
+        "Civics & CE (2hr)",
+        "LB3-07"
+      ],
+      "room": "C1"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Thursday",
+      "time": "08:00-15:15",
+      "raw": "Ujala Asmat\nPP (2hr)\nFIT-509",
+      "lines": [
+        "Ujala Asmat",
+        "PP (2hr)"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-2E",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-001\nDLD\nFareeha\nAshfaq",
+      "lines": [
+        "DLD",
+        "Fareeha",
+        "Ashfaq"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3A",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "CS-206\nOOP\nIdrees",
+      "lines": [
+        "OOP",
+        "Idrees"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-3A",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-08\nSE\nRabiya Ali",
+      "lines": [
+        "SE",
+        "Rabiya Ali"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3A",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "M. Shahzad\nCN (Lab)\nLAB-CS-306",
+      "lines": [
+        "M. Shahzad",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-3A",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "FIT-309\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-3A",
+      "day": "Thursday",
+      "time": "09:30-13:45",
+      "raw": "LB3-07\nC.Netwo\nrks\nM. Shahz\nad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "M. Shahz",
+        "ad"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-3A",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "LB3-08\nCOAL\nAsmara\nAkram",
+      "lines": [
+        "COAL",
+        "Asmara",
+        "Akram"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3B",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "FIT-501\nSE\nMaryam\nSuhail",
+      "lines": [
+        "SE",
+        "Maryam",
+        "Suhail"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3B",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Faiez\nCN (Lab)\nLAB-CS-003",
+      "lines": [
+        "Faiez",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-3B",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "CS-001\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3B",
+      "day": "Thursday",
+      "time": "09:30-13:45",
+      "raw": "CS-104\nC.Netwo\nrks\nFaiez",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Faiez"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-3B",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "FIT-309\nCOAL\nM Muzaff\nar",
+      "lines": [
+        "COAL",
+        "M Muzaff",
+        "ar"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-3C",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-201\nSE\nDr. Fezan\nAfzal",
+      "lines": [
+        "SE",
+        "Dr. Fezan",
+        "Afzal"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-3C",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Sanam Bibi\nCN (Lab)\nLAB-CS-002",
+      "lines": [
+        "Sanam Bibi",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-3C",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "CS-207\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-3C",
+      "day": "Thursday",
+      "time": "09:30-13:45",
+      "raw": "LB3-04\nC.Netwo\nrks\nSanam\nBibi",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sanam",
+        "Bibi"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3C",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "CS-205\nCOAL\nM. Rashid",
+      "lines": [
+        "COAL",
+        "M. Rashid"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "LB3-04\nOOP\nIdrees",
+      "lines": [
+        "OOP",
+        "Idrees"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "M. Shahzad\nCN (Lab)\nLAB-CS-301",
+      "lines": [
+        "M. Shahzad",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "CS-201\nCOAL\nAsmara\nAkram",
+      "lines": [
+        "COAL",
+        "Asmara",
+        "Akram"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-305\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Tuesday",
+      "time": "11:00-12:15",
+      "raw": "LB3-03\nOOP\nIdrees",
+      "lines": [
+        "OOP",
+        "Idrees"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Tuesday",
+      "time": "12:30-13:45",
+      "raw": "CS-002\nSE\nDr. Faria\nNazir",
+      "lines": [
+        "SE",
+        "Dr. Faria",
+        "Nazir"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "Asmara Akram\nCOAL(Lab)\nLAB-CS-301",
+      "lines": [
+        "Asmara Akram",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-501\nC.Netwo\nrks\nM. Shahz\nad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "M. Shahz",
+        "ad"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Wednesday",
+      "time": "11:00-15:15",
+      "raw": "Idrees\nOOP (Lab)\nLAB-CS-101",
+      "lines": [
+        "Idrees",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-205\nSE\nDr. Faria\nNazir",
+      "lines": [
+        "SE",
+        "Dr. Faria",
+        "Nazir"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "CS-204\nCOAL\nAsmara\nAkram",
+      "lines": [
+        "COAL",
+        "Asmara",
+        "Akram"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "CS-206\nC.Netwo\nrks\nM. Shahz\nad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "M. Shahz",
+        "ad"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-3D",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "FIT-501\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "CS-003\nOOP\nH Ali\nYounas",
+      "lines": [
+        "OOP",
+        "H Ali",
+        "Younas"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "Faiez\nCN (Lab)\nLAB-CS-303",
+      "lines": [
+        "Faiez",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "CS-207\nCOAL\nM Muzaff\nar",
+      "lines": [
+        "COAL",
+        "M Muzaff",
+        "ar"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "LB3-07\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-108\nOOP\nH Ali\nYounas",
+      "lines": [
+        "OOP",
+        "H Ali",
+        "Younas"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "M Muzaffar\nCOAL(Lab)\nLAB-CS-304",
+      "lines": [
+        "M Muzaffar",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "CS-204\nC.Netwo\nrks\nFaiez",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Faiez"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Wednesday",
+      "time": "11:00-15:15",
+      "raw": "H Ali Younas\nOOP (Lab)\nLAB-CS-002",
+      "lines": [
+        "H Ali Younas",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-06\nSE\nDr. Fezan\nAfzal",
+      "lines": [
+        "SE",
+        "Dr. Fezan",
+        "Afzal"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "LB3-108\nCOAL\nM Muzaff\nar",
+      "lines": [
+        "COAL",
+        "M Muzaff",
+        "ar"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "CS-001\nC.Netwo\nrks\nFaiez",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Faiez"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Thursday",
+      "time": "14:00-15:15",
+      "raw": "LB3-02\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-3E",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "LB3-03\nSE\nDr. Fezan\nAfzal",
+      "lines": [
+        "SE",
+        "Dr. Fezan",
+        "Afzal"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "CS-001\nOOP\nNouman\nAshraf",
+      "lines": [
+        "OOP",
+        "Nouman",
+        "Ashraf"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "Sanam Bibi\nCN (Lab)\nLAB-CS-101",
+      "lines": [
+        "Sanam Bibi",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "FIT-306\nCOAL\nM. Rashid",
+      "lines": [
+        "COAL",
+        "M. Rashid"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "CS-207\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-07\nOOP\nNouman\nAshraf",
+      "lines": [
+        "OOP",
+        "Nouman",
+        "Ashraf"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "M. Rashid\nCOAL(Lab)\nLAB-CS-306",
+      "lines": [
+        "M. Rashid",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-509\nC.Netwo\nrks\nSanam\nBibi",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sanam",
+        "Bibi"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Wednesday",
+      "time": "11:00-15:15",
+      "raw": "Nouman Ashraf\nOOP (Lab)\nLAB-CS-003",
+      "lines": [
+        "Nouman Ashraf",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-01\nSE\nSalman\nZaheer",
+      "lines": [
+        "SE",
+        "Salman",
+        "Zaheer"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "FIT-508\nCOAL\nM. Rashid",
+      "lines": [
+        "COAL",
+        "M. Rashid"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "FIT-509\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Thursday",
+      "time": "14:00-15:15",
+      "raw": "CS-204\nC.Netwo\nrks\nSanam\nBibi",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sanam",
+        "Bibi"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-3F",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "LB3-02\nSE\nSalman\nZaheer",
+      "lines": [
+        "SE",
+        "Salman",
+        "Zaheer"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "LB3-05\nSE\nRabiya Ali",
+      "lines": [
+        "SE",
+        "Rabiya Ali"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "CS-206\nC.Netwo\nrks\nAqsa\nShahzad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Aqsa",
+        "Shahzad"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "CS-002\nCOAL\nM. Usman",
+      "lines": [
+        "COAL",
+        "M. Usman"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "LB3-08\nSE\nRabiya Ali",
+      "lines": [
+        "SE",
+        "Rabiya Ali"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "Aqsa Shahzad\nCN (Lab)\nLAB-CS-304",
+      "lines": [
+        "Aqsa Shahzad",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "LB3-05\nOOP\nNaila\nRafique",
+      "lines": [
+        "OOP",
+        "Naila",
+        "Rafique"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "LB3-05\nC.Netwo\nrks\nAqsa\nShahzad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Aqsa",
+        "Shahzad"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "CS-003\nOOP\nNaila\nRafique",
+      "lines": [
+        "OOP",
+        "Naila",
+        "Rafique"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-511\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-511"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Naila Rafique\nOOP (Lab)\nLAB-CS-101",
+      "lines": [
+        "Naila Rafique",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "CS-001\nCOAL\nM. Usman",
+      "lines": [
+        "COAL",
+        "M. Usman"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3G",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "M. Usman\nCOAL(Lab)\nLAB-CS-301",
+      "lines": [
+        "M. Usman",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "LB3-02\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "CS-205\nSE\nMaryam\nSuhail",
+      "lines": [
+        "SE",
+        "Maryam",
+        "Suhail"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "LB3-07\nOOP\nMishal\nMuneer",
+      "lines": [
+        "OOP",
+        "Mishal",
+        "Muneer"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "CS-104\nC.Netwo\nrks\nSadia\nHameed",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sadia",
+        "Hameed"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "FIT-309\nSE\nMaryam\nSuhail",
+      "lines": [
+        "SE",
+        "Maryam",
+        "Suhail"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "Sadia Hameed\nCN (Lab)\nLAB-CS-003",
+      "lines": [
+        "Sadia Hameed",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-205\nOOP\nMishal\nMuneer",
+      "lines": [
+        "OOP",
+        "Mishal",
+        "Muneer"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "LB3-01\nC.Netwo\nrks\nSadia\nHameed",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sadia",
+        "Hameed"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "FIT-501\nCOAL\nSaqlain",
+      "lines": [
+        "COAL",
+        "Saqlain"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "LB3-02\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Mishal Muneer\nOOP (Lab)\nLAB-CS-002",
+      "lines": [
+        "Mishal Muneer",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "CS-002\nCOAL\nSaqlain",
+      "lines": [
+        "COAL",
+        "Saqlain"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-3H",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Saqlain\nCOAL(Lab)\nLAB-CS-002",
+      "lines": [
+        "Saqlain",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "LB3-04\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "FIT-305\nSE\nSalman\nZaheer",
+      "lines": [
+        "SE",
+        "Salman",
+        "Zaheer"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "LB3-08\nC.Netwo\nrks\nSanam\nBibi",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sanam",
+        "Bibi"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-04\nOOP\nSana\nUllah",
+      "lines": [
+        "OOP",
+        "Sana",
+        "Ullah"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "CS-205\nSE\nSalman\nZaheer",
+      "lines": [
+        "SE",
+        "Salman",
+        "Zaheer"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "Jawad Khalid\nCN (Lab)\nLAB-CS-303",
+      "lines": [
+        "Jawad Khalid",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "FIT-501\nOOP\nSana\nUllah",
+      "lines": [
+        "OOP",
+        "Sana",
+        "Ullah"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "LB3-03\nC.Netwo\nrks\nSanam\nBibi",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sanam",
+        "Bibi"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "LB3-02\nCOAL\nMaria\nRiasat",
+      "lines": [
+        "COAL",
+        "Maria",
+        "Riasat"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "LB3-07\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Sana Ullah\nOOP (Lab)\nLAB-CS-003",
+      "lines": [
+        "Sana Ullah",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "CS-003\nCOAL\nMaria\nRiasat",
+      "lines": [
+        "COAL",
+        "Maria",
+        "Riasat"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3I",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Maria Riasat\nCOAL(Lab)\nLAB-CS-003",
+      "lines": [
+        "Maria Riasat",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "Naila Rafique\nOOP (Lab)\nLAB-CS-306",
+      "lines": [
+        "Naila Rafique",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-04\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-05\nSE\nRabiya Ali",
+      "lines": [
+        "SE",
+        "Rabiya Ali"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "FIT-502\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "CS-005\nOOP\nNaila\nRafique",
+      "lines": [
+        "OOP",
+        "Naila",
+        "Rafique"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "M. Usman\nCOAL(Lab)\nLAB-CS-002",
+      "lines": [
+        "M. Usman",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "LB3-05\nSE\nRabiya Ali",
+      "lines": [
+        "SE",
+        "Rabiya Ali"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "LB3-01\nOOP\nNaila\nRafique",
+      "lines": [
+        "OOP",
+        "Naila",
+        "Rafique"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "CS-001\nC.Netwo\nrks\nAqsa\nShahzad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Aqsa",
+        "Shahzad"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-001\nCOAL\nM. Usman",
+      "lines": [
+        "COAL",
+        "M. Usman"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Saturday",
+      "time": "08:00-09:15",
+      "raw": "LB3-03\nC.Netwo\nrks\nAqsa\nShahzad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Aqsa",
+        "Shahzad"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Saturday",
+      "time": "09:30-13:45",
+      "raw": "CS-005\nCOAL\nM. Usman",
+      "lines": [
+        "COAL",
+        "M. Usman"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-3J",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Aqsa Shahzad\nCN (Lab)\nLAB-CS-004",
+      "lines": [
+        "Aqsa Shahzad",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "Mishal Muneer\nOOP (Lab)\nLAB-CS-101",
+      "lines": [
+        "Mishal Muneer",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-03\nSE\nDr. Faria\nNazir",
+      "lines": [
+        "SE",
+        "Dr. Faria",
+        "Nazir"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "FIT-309\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "FIT-501\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "FIT-502\nOOP\nMishal\nMuneer",
+      "lines": [
+        "OOP",
+        "Mishal",
+        "Muneer"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Saqlain\nCOAL(Lab)\nLAB-CS-303",
+      "lines": [
+        "Saqlain",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "CS-003\nSE\nDr. Faria\nNazir",
+      "lines": [
+        "SE",
+        "Dr. Faria",
+        "Nazir"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "LB3-03\nOOP\nMishal\nMuneer",
+      "lines": [
+        "OOP",
+        "Mishal",
+        "Muneer"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "CS-003\nCOAL\nSaqlain",
+      "lines": [
+        "COAL",
+        "Saqlain"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-108\nC.Netwo\nrks\nSadia\nHameed",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sadia",
+        "Hameed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Saturday",
+      "time": "09:30-10:45",
+      "raw": "CS-002\nCOAL\nSaqlain",
+      "lines": [
+        "COAL",
+        "Saqlain"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "CS-104\nC.Netwo\nrks\nSadia\nHameed",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Sadia",
+        "Hameed"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-3K",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Sadia Hameed\nCN (Lab)\nLAB-CS-101",
+      "lines": [
+        "Sadia Hameed",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "Sana Ullah\nOOP (Lab)\nLAB-CS-003",
+      "lines": [
+        "Sana Ullah",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "FIT-307\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "FIT-501\nSE\nAsim\nRaza",
+      "lines": [
+        "SE",
+        "Asim",
+        "Raza"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "CS-207\nCalculus\nSafeena",
+      "lines": [
+        "Calculus",
+        "Safeena"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "LB3-07\nOOP\nSana\nUllah",
+      "lines": [
+        "OOP",
+        "Sana",
+        "Ullah"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Maria Riasat\nCOAL(Lab)\nLAB-CS-004",
+      "lines": [
+        "Maria Riasat",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "CS-005\nSE\nAsim\nRaza",
+      "lines": [
+        "SE",
+        "Asim",
+        "Raza"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "LB3-04\nOOP\nSana\nUllah",
+      "lines": [
+        "OOP",
+        "Sana",
+        "Ullah"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "CS-005\nCOAL\nMaria\nRiasat",
+      "lines": [
+        "COAL",
+        "Maria",
+        "Riasat"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-003\nC.Netwo\nrks\nAqsa\nShahzad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Aqsa",
+        "Shahzad"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Saturday",
+      "time": "09:30-10:45",
+      "raw": "CS-001\nCOAL\nMaria\nRiasat",
+      "lines": [
+        "COAL",
+        "Maria",
+        "Riasat"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "CS-005\nC.Netwo\nrks\nAqsa\nShahzad",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Aqsa",
+        "Shahzad"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-3L",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Arslan Latif\nCN (Lab)\nLAB-CS-303",
+      "lines": [
+        "Arslan Latif",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "LB3-04\nSE\nDr. Faria\nNazir",
+      "lines": [
+        "SE",
+        "Dr. Faria",
+        "Nazir"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Tuesday",
+      "time": "09:30-12:15",
+      "raw": "CS-001\nOOP\nDr. Imran",
+      "lines": [
+        "OOP",
+        "Dr. Imran"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Tuesday",
+      "time": "12:30-13:45",
+      "raw": "FIT-508\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "Ahmed Faraz\nCOAL(Lab)\nLAB-CS-303",
+      "lines": [
+        "Ahmed Faraz",
+        "COAL(Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-306\nC.Netwo\nrks\nRaheela\nBatool",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Raheela",
+        "Batool"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "CS-002\nOOP\nDr. Imran",
+      "lines": [
+        "OOP",
+        "Dr. Imran"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Wednesday",
+      "time": "11:00-16:45",
+      "raw": "Afaq\nOOP (Lab)\nLAB-CS-004",
+      "lines": [
+        "Afaq",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "LB3-08\nCOAL\nAhmed\nFaraz",
+      "lines": [
+        "COAL",
+        "Ahmed",
+        "Faraz"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "FIT-308\nC.Netwo\nrks\nRaheela\nBatool",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Raheela",
+        "Batool"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-003\nSE\nDr. Faria\nNazir",
+      "lines": [
+        "SE",
+        "Dr. Faria",
+        "Nazir"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "Raheela Batool\nCN (Lab)\nLAB-CS-304",
+      "lines": [
+        "Raheela Batool",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-305\nCOAL\nAhmed\nFaraz",
+      "lines": [
+        "COAL",
+        "Ahmed",
+        "Faraz"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-3M",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "FIT-307\nCalculus\nWarda\nIslam",
+      "lines": [
+        "Calculus",
+        "Warda",
+        "Islam"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-08\nC.Netwo\nrks\nIqra\nAdnan",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Iqra",
+        "Adnan"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "LB3-03\nC.Netwo\nrks\nIqra\nAdnan",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Iqra",
+        "Adnan"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "LB3-08\nOOP\nMajid\nHussain",
+      "lines": [
+        "OOP",
+        "Majid",
+        "Hussain"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "CS-003\nCOAL\nAhmed\nFaraz",
+      "lines": [
+        "COAL",
+        "Ahmed",
+        "Faraz"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "Majid Hussain\nOOP (Lab)\nLAB-CS-004",
+      "lines": [
+        "Majid Hussain",
+        "OOP (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "CS-201\nSE\nDr. Fezan\nAfzal",
+      "lines": [
+        "SE",
+        "Dr. Fezan",
+        "Afzal"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "FIT-501\nCalculus\nSaba\nYousaf",
+      "lines": [
+        "Calculus",
+        "Saba",
+        "Yousaf"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-3N",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-05\nOOP\nMajid\nHussain",
+      "lines": [
+        "OOP",
+        "Majid",
+        "Hussain"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Zainab Shahzadi\nDS (Lab)\nLAB-CS-101",
+      "lines": [
+        "Zainab Shahzadi",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Monday",
+      "time": "11:00-15:15",
+      "raw": "Fatima Rafique\nMngmnt (2hr)\nLB3-01",
+      "lines": [
+        "Fatima Rafique",
+        "Mngmnt (2hr)"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "LB3-06\nIS\nNamra\nTahir",
+      "lines": [
+        "IS",
+        "Namra",
+        "Tahir"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "Namra Tahir\nIS (LAB)\nLAB-CS-101",
+      "lines": [
+        "Namra Tahir",
+        "IS (LAB)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-002\nDB\nAzka Aziz",
+      "lines": [
+        "DB",
+        "Azka Aziz"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "CS-002\nLinear\nRaheela\nBatool",
+      "lines": [
+        "Linear",
+        "Raheela",
+        "Batool"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "Zainab Shahzadi\nDB (Lab)\nLAB-CS-303",
+      "lines": [
+        "Zainab Shahzadi",
+        "DB (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-003\nDS\nDr. Faroo\nque",
+      "lines": [
+        "DS",
+        "Dr. Faroo",
+        "que"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "CS-206\nIS\nNamra\nTahir",
+      "lines": [
+        "IS",
+        "Namra",
+        "Tahir"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-108\nLinear\nRaheela\nBatool",
+      "lines": [
+        "Linear",
+        "Raheela",
+        "Batool"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Thursday",
+      "time": "09:30-12:15",
+      "raw": "CS-001\nDB\nAzka Aziz",
+      "lines": [
+        "DB",
+        "Azka Aziz"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "CS-001\nDS\nDr. Faroo\nque",
+      "lines": [
+        "DS",
+        "Dr. Faroo",
+        "que"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-4A",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Abbas\nENT (2hr)\nCS-005",
+      "lines": [
+        "Abbas",
+        "ENT (2hr)"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Iqra Sabeen\nDS (Lab)\nLAB-CS-003",
+      "lines": [
+        "Iqra Sabeen",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Monday",
+      "time": "11:00-15:15",
+      "raw": "Abbas\nENT (2hr)\nCS-003",
+      "lines": [
+        "Abbas",
+        "ENT (2hr)"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "LB3-05\nIS\nZareen\nFatima",
+      "lines": [
+        "IS",
+        "Zareen",
+        "Fatima"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "Zareen Fatima\nIS (LAB)\nLAB-CS-004",
+      "lines": [
+        "Zareen Fatima",
+        "IS (LAB)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-003\nDB\nSadaf Ali",
+      "lines": [
+        "DB",
+        "Sadaf Ali"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "FIT-307\nLinear\nHafiza\nTahira",
+      "lines": [
+        "Linear",
+        "Hafiza",
+        "Tahira"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "Sadaf Ali\nDB (Lab)\nLAB-CS-004",
+      "lines": [
+        "Sadaf Ali",
+        "DB (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-206\nDS\nIqra\nSabeen",
+      "lines": [
+        "DS",
+        "Iqra",
+        "Sabeen"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-307\nIS\nZareen\nFatima",
+      "lines": [
+        "IS",
+        "Zareen",
+        "Fatima"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-04\nLinear\nHafiza\nTahira",
+      "lines": [
+        "Linear",
+        "Hafiza",
+        "Tahira"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Thursday",
+      "time": "09:30-12:15",
+      "raw": "CS-003\nDB\nSadaf Ali",
+      "lines": [
+        "DB",
+        "Sadaf Ali"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "LB3-01\nDS\nIqra\nSabeen",
+      "lines": [
+        "DS",
+        "Iqra",
+        "Sabeen"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-4B",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "CS-207\nMngmnt\n(2hr)",
+      "lines": [
+        "Mngmnt",
+        "(2hr)"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Monday",
+      "time": "08:00-12:15",
+      "raw": "Hussnain Ayoub\nDS (Lab)\nLAB-CS-306",
+      "lines": [
+        "Hussnain Ayoub",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "CS-207\nIS\nNamra\nTahir",
+      "lines": [
+        "IS",
+        "Namra",
+        "Tahir"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Fatima Rafique\nMngmnt (2hr)\nLB3-01",
+      "lines": [
+        "Fatima Rafique",
+        "Mngmnt (2hr)"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "Zainab Shahzadi\nDB (Lab)\nLAB-CS-304",
+      "lines": [
+        "Zainab Shahzadi",
+        "DB (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Tuesday",
+      "time": "11:00-15:15",
+      "raw": "Abbas\nENT (2hr)\nFIT-307",
+      "lines": [
+        "Abbas",
+        "ENT (2hr)"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-306\nDS\nM. Shoaib",
+      "lines": [
+        "DS",
+        "M. Shoaib"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "Namra Tahir\nIS (LAB)\nLAB-CS-304",
+      "lines": [
+        "Namra Tahir",
+        "IS (LAB)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "CS-002\nDB\nAzka Aziz",
+      "lines": [
+        "DB",
+        "Azka Aziz"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-01\nLinear\nRaheela\nBatool",
+      "lines": [
+        "Linear",
+        "Raheela",
+        "Batool"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "LB3-04\nLinear\nRaheela\nBatool",
+      "lines": [
+        "Linear",
+        "Raheela",
+        "Batool"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Thursday",
+      "time": "09:30-12:15",
+      "raw": "LB3-01\nIS\nNamra\nTahir",
+      "lines": [
+        "IS",
+        "Namra",
+        "Tahir"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "CS-104\nDB\nAzka Aziz",
+      "lines": [
+        "DB",
+        "Azka Aziz"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-4C",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "CS-002\nDS\nM. Shoaib",
+      "lines": [
+        "DS",
+        "M. Shoaib"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Monday",
+      "time": "08:00-12:15",
+      "raw": "Abbas\nENT (2hr)\nLB3-03",
+      "lines": [
+        "Abbas",
+        "ENT (2hr)"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "LB3-08\nIS\nZareen\nFatima",
+      "lines": [
+        "IS",
+        "Zareen",
+        "Fatima"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Iqra Sabeen\nDS (Lab)\nLAB-CS-301",
+      "lines": [
+        "Iqra Sabeen",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Tuesday",
+      "time": "08:00-12:15",
+      "raw": "Fatima Javed\nDB (Lab)\nLAB-CS-303",
+      "lines": [
+        "Fatima Javed",
+        "DB (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Tuesday",
+      "time": "12:30-15:15",
+      "raw": "Fatima Rafique\nMngmnt (2hr)\nLB3-08",
+      "lines": [
+        "Fatima Rafique",
+        "Mngmnt (2hr)"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-307\nDS\nIqra\nSabeen",
+      "lines": [
+        "DS",
+        "Iqra",
+        "Sabeen"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "Zareen Fatima\nIS (LAB)\nLAB-CS-305",
+      "lines": [
+        "Zareen Fatima",
+        "IS (LAB)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "FIT-307\nDB\nFatima\nJaved",
+      "lines": [
+        "DB",
+        "Fatima",
+        "Javed"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "CS-204\nLinear\nHafiza\nTahira",
+      "lines": [
+        "Linear",
+        "Hafiza",
+        "Tahira"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "CS-204\nLinear\nHafiza\nTahira",
+      "lines": [
+        "Linear",
+        "Hafiza",
+        "Tahira"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Thursday",
+      "time": "09:30-12:15",
+      "raw": "CS-201\nIS\nZareen\nFatima",
+      "lines": [
+        "IS",
+        "Zareen",
+        "Fatima"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "LB3-08\nDB\nFatima\nJaved",
+      "lines": [
+        "DB",
+        "Fatima",
+        "Javed"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-4D",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "LB3-03\nDS\nIqra\nSabeen",
+      "lines": [
+        "DS",
+        "Iqra",
+        "Sabeen"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "Fatima Rafique\nMngmnt (2hr)\nLB3-02",
+      "lines": [
+        "Fatima Rafique",
+        "Mngmnt (2hr)"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "LB3-02\nDB\nSadaf Ali",
+      "lines": [
+        "DB",
+        "Sadaf Ali"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-03\nIS\nGhaza\nAkbar",
+      "lines": [
+        "IS",
+        "Ghaza",
+        "Akbar"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Thursday",
+      "time": "08:00-13:45",
+      "raw": "Ghaza Akbar\nIS (LAB)\nLAB-CS-002",
+      "lines": [
+        "Ghaza Akbar",
+        "IS (LAB)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Thursday",
+      "time": "14:00-15:15",
+      "raw": "LB3-07\nDB\nSadaf Ali",
+      "lines": [
+        "DB",
+        "Sadaf Ali"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "LB3-108\nLinear\nUsman\nJaved",
+      "lines": [
+        "Linear",
+        "Usman",
+        "Javed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "Nimra Shafiq\nDS (Lab)\nLAB-CS-003",
+      "lines": [
+        "Nimra Shafiq",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-509\nIS\nGhaza\nAkbar",
+      "lines": [
+        "IS",
+        "Ghaza",
+        "Akbar"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "LB3-108\nLinear\nUsman\nJaved",
+      "lines": [
+        "Linear",
+        "Usman",
+        "Javed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4E",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-06\nDS\nNimra\nShafiq",
+      "lines": [
+        "DS",
+        "Nimra",
+        "Shafiq"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-108\nDS\nNimra\nShafiq",
+      "lines": [
+        "DS",
+        "Nimra",
+        "Shafiq"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-108\nDB\nFatima\nJaved",
+      "lines": [
+        "DB",
+        "Fatima",
+        "Javed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "Nimra Shafiq\nDS (Lab)\nLAB-CS-004",
+      "lines": [
+        "Nimra Shafiq",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "LB3-01\nDB\nFatima\nJaved",
+      "lines": [
+        "DB",
+        "Fatima",
+        "Javed"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "ENT1\nENT (2hr)\nCS-206",
+      "lines": [
+        "ENT1",
+        "ENT (2hr)"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "CS-005\nLinear\nUsman\nJaved",
+      "lines": [
+        "Linear",
+        "Usman",
+        "Javed"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Friday",
+      "time": "09:30-13:45",
+      "raw": "Khawaja\nHRM (2hr)\nCS-204",
+      "lines": [
+        "Khawaja",
+        "HRM (2hr)"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Fatima Javed\nDB (Lab)\nLAB-CS-004",
+      "lines": [
+        "Fatima Javed",
+        "DB (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Ghaza Akbar\nIS (LAB)\nLAB-AHS-301",
+      "lines": [
+        "Ghaza Akbar",
+        "IS (LAB)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Saturday",
+      "time": "11:00-12:15",
+      "raw": "LB3-04\nDS\nNimra\nShafiq",
+      "lines": [
+        "DS",
+        "Nimra",
+        "Shafiq"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Saturday",
+      "time": "12:30-13:45",
+      "raw": "LB3-108\nLinear\nUsman\nJaved",
+      "lines": [
+        "Linear",
+        "Usman",
+        "Javed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4F",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "CS-002\nIS\nGhaza\nAkbar",
+      "lines": [
+        "IS",
+        "Ghaza",
+        "Akbar"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-07\nDS\nM. Shoaib",
+      "lines": [
+        "DS",
+        "M. Shoaib"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "FIT-502\nDB\nHafsa\nShakir",
+      "lines": [
+        "DB",
+        "Hafsa",
+        "Shakir"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "Hussnain Ayoub\nDS (Lab)\nLAB-CS-101",
+      "lines": [
+        "Hussnain Ayoub",
+        "DS (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "Khawaja\nHRM (2hr)\nCS-204",
+      "lines": [
+        "Khawaja",
+        "HRM (2hr)"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "FIT-502\nDB\nHafsa\nShakir",
+      "lines": [
+        "DB",
+        "Hafsa",
+        "Shakir"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "LB3-108\nLinear\nUsman\nJaved",
+      "lines": [
+        "Linear",
+        "Usman",
+        "Javed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "Abbas\nENT (2hr)\nLB3-08",
+      "lines": [
+        "Abbas",
+        "ENT (2hr)"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Hafsa Shakir\nDB (Lab)\nLAB-CS-301",
+      "lines": [
+        "Hafsa Shakir",
+        "DB (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Saturday",
+      "time": "08:00-09:15",
+      "raw": "LB3-108\nLinear\nUsman\nJaved",
+      "lines": [
+        "Linear",
+        "Usman",
+        "Javed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Saturday",
+      "time": "09:30-12:15",
+      "raw": "CS-003\nIS\nRT2",
+      "lines": [
+        "IS",
+        "RT2"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Saturday",
+      "time": "12:30-13:45",
+      "raw": "CS-001\nDS\nM. Shoaib",
+      "lines": [
+        "DS",
+        "M. Shoaib"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-4G",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Haris\nIS (LAB)\nLAB-CS-304",
+      "lines": [
+        "Haris",
+        "IS (LAB)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-206\nAI\nAmna\nHussain",
+      "lines": [
+        "AI",
+        "Amna",
+        "Hussain"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "CS-204\nAA\nM. Tayya\nb",
+      "lines": [
+        "AA",
+        "M. Tayya",
+        "b"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "FIT-308\nAI\nAmna\nHussain",
+      "lines": [
+        "AI",
+        "Amna",
+        "Hussain"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-005\nToA\nNaveed\nAhmad",
+      "lines": [
+        "ToA",
+        "Naveed",
+        "Ahmad"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-308\nOS\nMustaghe\nes",
+      "lines": [
+        "OS",
+        "Mustaghe",
+        "es"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-207\nWeb\nM Zaman",
+      "lines": [
+        "Web",
+        "M Zaman"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Thursday",
+      "time": "11:00-12:15",
+      "raw": "FIT-307\nOS\nMustaghe\nes",
+      "lines": [
+        "OS",
+        "Mustaghe",
+        "es"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Thursday",
+      "time": "12:30-15:15",
+      "raw": "CS-205\nWeb\nM Zaman",
+      "lines": [
+        "Web",
+        "M Zaman"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-204\nAA\nM. Tayya\nb",
+      "lines": [
+        "AA",
+        "M. Tayya",
+        "b"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "M Zaman\nWeb (Lab)\nLAB-CS-002",
+      "lines": [
+        "M Zaman",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "CS-003\nADBMS\nRT12",
+      "lines": [
+        "ADBMS",
+        "RT12"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Amna Hussain\nAI (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Amna Hussain",
+        "AI (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Mustaghees\nOS (Lab)\nLAB-CS-309",
+      "lines": [
+        "Mustaghees",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-309"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "Moiz\nADBMS (LAB)\nLAB-AHS-301",
+      "lines": [
+        "Moiz",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-5A",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "LB3-05\nADBMS\nRT12",
+      "lines": [
+        "ADBMS",
+        "RT12"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "FIT-305\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-01\nAA\nSidra\nNaheed",
+      "lines": [
+        "AA",
+        "Sidra",
+        "Naheed"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-06\nToA\nAtifa\nArooj",
+      "lines": [
+        "ToA",
+        "Atifa",
+        "Arooj"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-508\nWeb\nSalman\nIrfan",
+      "lines": [
+        "Web",
+        "Salman",
+        "Irfan"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-508\nADBMS\nRT12",
+      "lines": [
+        "ADBMS",
+        "RT12"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Thursday",
+      "time": "11:00-12:15",
+      "raw": "CS-205\nOS\nAbbas",
+      "lines": [
+        "OS",
+        "Abbas"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "FIT-306\nWeb\nSalman\nIrfan",
+      "lines": [
+        "Web",
+        "Salman",
+        "Irfan"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Thursday",
+      "time": "14:00-15:15",
+      "raw": "LB3-108\nAA\nSidra\nNaheed",
+      "lines": [
+        "AA",
+        "Sidra",
+        "Naheed"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "FIT-309\nADBMS\nRT12",
+      "lines": [
+        "ADBMS",
+        "RT12"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "Salman Irfan\nWeb (Lab)\nLAB-CS-303",
+      "lines": [
+        "Salman Irfan",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-308\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Zainab Wajid\nAI (Lab)\nLAB-CS-303",
+      "lines": [
+        "Zainab Wajid",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Moiz\nADBMS (LAB)\nLAB-CS-004",
+      "lines": [
+        "Moiz",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "Abbas\nOS (Lab)\nLAB-CS-306",
+      "lines": [
+        "Abbas",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5B",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "LB3-04\nOS\nAbbas",
+      "lines": [
+        "OS",
+        "Abbas"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "FIT-306\nAA\nMariya\nBibi",
+      "lines": [
+        "AA",
+        "Mariya",
+        "Bibi"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Tuesday",
+      "time": "11:00-12:15",
+      "raw": "CS-005\nToA\nAtifa\nArooj",
+      "lines": [
+        "ToA",
+        "Atifa",
+        "Arooj"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Tuesday",
+      "time": "12:30-15:15",
+      "raw": "FIT-305\nAI\nAmna\nHussain",
+      "lines": [
+        "AI",
+        "Amna",
+        "Hussain"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-305\nWeb\nM Zaman",
+      "lines": [
+        "Web",
+        "M Zaman"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "LB3-05\nAA\nMariya\nBibi",
+      "lines": [
+        "AA",
+        "Mariya",
+        "Bibi"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "LB3-03\nOS\nMustaghe\nes",
+      "lines": [
+        "OS",
+        "Mustaghe",
+        "es"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-03\nToA\nAtifa\nArooj",
+      "lines": [
+        "ToA",
+        "Atifa",
+        "Arooj"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Thursday",
+      "time": "08:00-12:15",
+      "raw": "LB3-03\nWeb\nM Zaman",
+      "lines": [
+        "Web",
+        "M Zaman"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "CS-206\nAI\nAmna\nHussain",
+      "lines": [
+        "AI",
+        "Amna",
+        "Hussain"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Mustaghees\nOS (Lab)\nLAB-CS-306",
+      "lines": [
+        "Mustaghees",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "Amna Hussain\nAI (Lab)\nLAB-CS-305",
+      "lines": [
+        "Amna Hussain",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "CS-205\nADBMS\nM. Arslan",
+      "lines": [
+        "ADBMS",
+        "M. Arslan"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "M Zaman\nWeb (Lab)\nLAB-CS-304",
+      "lines": [
+        "M Zaman",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Saturday",
+      "time": "08:00-13:45",
+      "raw": "M. Arslan\nADBMS (LAB)\nLAB-CS-301",
+      "lines": [
+        "M. Arslan",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Saturday",
+      "time": "14:00-15:15",
+      "raw": "CS-003\nOS\nMustaghe\nes",
+      "lines": [
+        "OS",
+        "Mustaghe",
+        "es"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-5C",
+      "day": "Saturday",
+      "time": "15:30-16:45",
+      "raw": "CS-002\nADBMS\nM. Arslan",
+      "lines": [
+        "ADBMS",
+        "M. Arslan"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Monday",
+      "time": "09:30-12:15",
+      "raw": "CS-207\nAA\nMariya\nBibi",
+      "lines": [
+        "AA",
+        "Mariya",
+        "Bibi"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "LB3-02\nToA\nAtifa\nArooj",
+      "lines": [
+        "ToA",
+        "Atifa",
+        "Arooj"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "LB3-02\nOS\nAtrooba",
+      "lines": [
+        "OS",
+        "Atrooba"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "LB3-02\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Tuesday",
+      "time": "08:00-13:45",
+      "raw": "Atrooba\nOS (Lab)\nLAB-CS-306",
+      "lines": [
+        "Atrooba",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "FIT-306\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-502\nOS\nAtrooba",
+      "lines": [
+        "OS",
+        "Atrooba"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "LB3-06\nAA\nMariya\nBibi",
+      "lines": [
+        "AA",
+        "Mariya",
+        "Bibi"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "FIT-309\nWeb\nIqra Nasir",
+      "lines": [
+        "Web",
+        "Iqra Nasir"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Zeemal Sadaqat\nAI (Lab)\nLAB-CS-301",
+      "lines": [
+        "Zeemal Sadaqat",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Thursday",
+      "time": "08:00-12:15",
+      "raw": "Moiz\nADBMS (LAB)\nLAB-CS-003",
+      "lines": [
+        "Moiz",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "LB3-03\nToA\nAtifa\nArooj",
+      "lines": [
+        "ToA",
+        "Atifa",
+        "Arooj"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "LB3-05\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "FIT-508\nWeb\nIqra Nasir",
+      "lines": [
+        "Web",
+        "Iqra Nasir"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "CS-104\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5D",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Iqra Nasir\nWeb (Lab)\nLAB-CS-306",
+      "lines": [
+        "Iqra Nasir",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "FIT-309\nToA\nHassan\nRaza",
+      "lines": [
+        "ToA",
+        "Hassan",
+        "Raza"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-305\nOS\nAtrooba",
+      "lines": [
+        "OS",
+        "Atrooba"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-501\nAA\nMariya\nBibi",
+      "lines": [
+        "AA",
+        "Mariya",
+        "Bibi"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "LB3-07\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "FIT-509\nADBMS\nSana\nSaeed",
+      "lines": [
+        "ADBMS",
+        "Sana",
+        "Saeed"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Atrooba\nOS (Lab)\nLAB-CS-303",
+      "lines": [
+        "Atrooba",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Thursday",
+      "time": "08:00-12:15",
+      "raw": "Iqra Nasir\nWeb (Lab)\nLAB-CS-303",
+      "lines": [
+        "Iqra Nasir",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "LB3-05\nADBMS\nSana\nSaeed",
+      "lines": [
+        "ADBMS",
+        "Sana",
+        "Saeed"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "CS-001\nWeb\nIqra Nasir",
+      "lines": [
+        "Web",
+        "Iqra Nasir"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Friday",
+      "time": "08:00-13:45",
+      "raw": "LB3-108\nWeb\nIqra Nasir",
+      "lines": [
+        "Web",
+        "Iqra Nasir"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-5E",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "Sana Saeed\nADBMS (LAB)\nLAB-CS-305",
+      "lines": [
+        "Sana Saeed",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Tuesday",
+      "time": "11:00-15:15",
+      "raw": "CS-001\nToA\nDr.Shahid",
+      "lines": [
+        "ToA",
+        "Dr.Shahid"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-04\nADBMS\nSana\nSaeed",
+      "lines": [
+        "ADBMS",
+        "Sana",
+        "Saeed"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "CS-002\nADBMS\nSana\nSaeed",
+      "lines": [
+        "ADBMS",
+        "Sana",
+        "Saeed"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "FIT-502\nOS\nM. Noma\nn",
+      "lines": [
+        "OS",
+        "M. Noma",
+        "n"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Wednesday",
+      "time": "12:30-15:15",
+      "raw": "CS-005\nToA\nDr.Shahid",
+      "lines": [
+        "ToA",
+        "Dr.Shahid"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-305\nWeb\nSalman\nIrfan",
+      "lines": [
+        "Web",
+        "Salman",
+        "Irfan"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "FIT-305\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Thursday",
+      "time": "09:30-13:45",
+      "raw": "LB3-02\nWeb\nSalman\nIrfan",
+      "lines": [
+        "Web",
+        "Salman",
+        "Irfan"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "M. Noman\nOS (Lab)\nLAB-CS-003",
+      "lines": [
+        "M. Noman",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Friday",
+      "time": "08:00-13:45",
+      "raw": "Sana Saeed\nADBMS (LAB)\nLAB-CS-306",
+      "lines": [
+        "Sana Saeed",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "FIT-510\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "FIT-510"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-206\nAA\nTemur Ul\nHassan",
+      "lines": [
+        "AA",
+        "Temur Ul",
+        "Hassan"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Salman Irfan\nWeb (Lab)\nLAB-CS-303",
+      "lines": [
+        "Salman Irfan",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Saturday",
+      "time": "11:00-15:15",
+      "raw": "Zainab Wajid\nAI (Lab)\nLAB-CS-303",
+      "lines": [
+        "Zainab Wajid",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5F",
+      "day": "Saturday",
+      "time": "15:30-16:45",
+      "raw": "LB3-02\nAA\nTemur Ul\nHassan",
+      "lines": [
+        "AA",
+        "Temur Ul",
+        "Hassan"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Monday",
+      "time": "08:00-12:15",
+      "raw": "CS-104\nWeb\nAbdul\nGhaffar",
+      "lines": [
+        "Web",
+        "Abdul",
+        "Ghaffar"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "LB3-06\nOS\nMurtaza",
+      "lines": [
+        "OS",
+        "Murtaza"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Abdul Ghaffar\nWeb (Lab)\nLAB-CS-003",
+      "lines": [
+        "Abdul Ghaffar",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "CS-104\nWeb\nAbdul\nGhaffar",
+      "lines": [
+        "Web",
+        "Abdul",
+        "Ghaffar"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "CS-003\nToA\nDr.Shahid",
+      "lines": [
+        "ToA",
+        "Dr.Shahid"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Tuesday",
+      "time": "11:00-15:15",
+      "raw": "Murtaza\nOS (Lab)\nLAB-CS-004",
+      "lines": [
+        "Murtaza",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-201\nADBMS\nZoha\nAhsan",
+      "lines": [
+        "ADBMS",
+        "Zoha",
+        "Ahsan"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "CS-207\nOS\nMurtaza",
+      "lines": [
+        "OS",
+        "Murtaza"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "LB3-08\nAA\nTemur Ul\nHassan",
+      "lines": [
+        "AA",
+        "Temur Ul",
+        "Hassan"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "CS-001\nToA\nDr.Shahid",
+      "lines": [
+        "ToA",
+        "Dr.Shahid"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Zoha Ahsan\nAI (Lab)\nLAB-CS-304",
+      "lines": [
+        "Zoha Ahsan",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Thursday",
+      "time": "08:00-12:15",
+      "raw": "Zoha Ahsan\nADBMS (LAB)\nLAB-CS-305",
+      "lines": [
+        "Zoha Ahsan",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Thursday",
+      "time": "12:30-16:45",
+      "raw": "FIT-509\nAI\nZoha\nAhsan",
+      "lines": [
+        "AI",
+        "Zoha",
+        "Ahsan"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Friday",
+      "time": "09:30-13:45",
+      "raw": "LB3-08\nADBMS\nZoha\nAhsan",
+      "lines": [
+        "ADBMS",
+        "Zoha",
+        "Ahsan"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "LB3-08\nAA\nTemur Ul\nHassan",
+      "lines": [
+        "AA",
+        "Temur Ul",
+        "Hassan"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-5G",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-205\nAI\nZoha\nAhsan",
+      "lines": [
+        "AI",
+        "Zoha",
+        "Ahsan"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "LB3-06\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Monday",
+      "time": "09:30-12:15",
+      "raw": "CS-104\nWeb\nAbdul\nGhaffar",
+      "lines": [
+        "Web",
+        "Abdul",
+        "Ghaffar"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "FIT-308\nToA\nHassan\nRaza",
+      "lines": [
+        "ToA",
+        "Hassan",
+        "Raza"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Murtaza\nOS (Lab)\nLAB-CS-303",
+      "lines": [
+        "Murtaza",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-303"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "LB3-108\nToA\nHassan\nRaza",
+      "lines": [
+        "ToA",
+        "Hassan",
+        "Raza"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-308\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Tuesday",
+      "time": "11:00-15:15",
+      "raw": "Abdul Ghaffar\nWeb (Lab)\nLAB-CS-003",
+      "lines": [
+        "Abdul Ghaffar",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-104\nOS\nMurtaza",
+      "lines": [
+        "OS",
+        "Murtaza"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "CS-003\nWeb\nAbdul\nGhaffar",
+      "lines": [
+        "Web",
+        "Abdul",
+        "Ghaffar"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "FIT-502\nOS\nMurtaza",
+      "lines": [
+        "OS",
+        "Murtaza"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Moiz\nADBMS (LAB)\nLAB-CS-305",
+      "lines": [
+        "Moiz",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Thursday",
+      "time": "08:00-12:15",
+      "raw": "Zeemal Sadaqat\nAI (Lab)\nLAB-CS-306",
+      "lines": [
+        "Zeemal Sadaqat",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "LB3-108\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "FIT-306\nAA\nSajid\nIqbal",
+      "lines": [
+        "AA",
+        "Sajid",
+        "Iqbal"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Friday",
+      "time": "08:00-13:45",
+      "raw": "LB3-07\nAA\nSajid\nIqbal",
+      "lines": [
+        "AA",
+        "Sajid",
+        "Iqbal"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-5H",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "CS-002\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "M. Noman\nOS (Lab)\nLAB-CS-306",
+      "lines": [
+        "M. Noman",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-309\nWeb\nKinza\nHaroon",
+      "lines": [
+        "Web",
+        "Kinza",
+        "Haroon"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-508\nOS\nM. Noma\nn",
+      "lines": [
+        "OS",
+        "M. Noma",
+        "n"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "FIT-508\nAA\nSidra\nNaheed",
+      "lines": [
+        "AA",
+        "Sidra",
+        "Naheed"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Wednesday",
+      "time": "12:30-15:15",
+      "raw": "FIT-508\nOS\nM. Noma\nn",
+      "lines": [
+        "OS",
+        "M. Noma",
+        "n"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-005\nToA\nNaveed\nAhmad",
+      "lines": [
+        "ToA",
+        "Naveed",
+        "Ahmad"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Thursday",
+      "time": "11:00-12:15",
+      "raw": "LB3-05\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "CS-005\nToA\nNaveed\nAhmad",
+      "lines": [
+        "ToA",
+        "Naveed",
+        "Ahmad"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Moiz\nADBMS (LAB)\nLAB-CS-305",
+      "lines": [
+        "Moiz",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "FIT-308\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Friday",
+      "time": "09:30-13:45",
+      "raw": "CS-205\nWeb\nKinza\nHaroon",
+      "lines": [
+        "Web",
+        "Kinza",
+        "Haroon"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "CS-104\nAA\nSidra\nNaheed",
+      "lines": [
+        "AA",
+        "Sidra",
+        "Naheed"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-07\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Zainab Wajid\nAI (Lab)\nLAB-CS-306",
+      "lines": [
+        "Zainab Wajid",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "Kinza Haroon\nWeb (Lab)\nLAB-CS-301",
+      "lines": [
+        "Kinza Haroon",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-5I",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "LB3-03\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Tuesday",
+      "time": "08:00-12:15",
+      "raw": "CS-206\nWeb\nKinza\nHaroon",
+      "lines": [
+        "Web",
+        "Kinza",
+        "Haroon"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Tuesday",
+      "time": "12:30-13:45",
+      "raw": "LB3-07\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-509\nADBMS\nM. Arslan",
+      "lines": [
+        "ADBMS",
+        "M. Arslan"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-502\nAA\nSidra\nNaheed",
+      "lines": [
+        "AA",
+        "Sidra",
+        "Naheed"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-305\nOS\nHafsa\nShakir",
+      "lines": [
+        "OS",
+        "Hafsa",
+        "Shakir"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "FIT-508\nToA\nM Faisal",
+      "lines": [
+        "ToA",
+        "M Faisal"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Wednesday",
+      "time": "12:30-16:45",
+      "raw": "FIT-501\nAA\nSidra\nNaheed",
+      "lines": [
+        "AA",
+        "Sidra",
+        "Naheed"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "Zainab Wajid\nAI (Lab)\nLAB-CS-304",
+      "lines": [
+        "Zainab Wajid",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "LB3-06\nAI\nAnsar\nNaseem",
+      "lines": [
+        "AI",
+        "Ansar",
+        "Naseem"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Kinza Haroon\nWeb (Lab)\nLAB-CS-304",
+      "lines": [
+        "Kinza Haroon",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "CS-207\nOS\nHafsa\nShakir",
+      "lines": [
+        "OS",
+        "Hafsa",
+        "Shakir"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Friday",
+      "time": "09:30-15:15",
+      "raw": "FIT-309\nToA\nM Faisal",
+      "lines": [
+        "ToA",
+        "M Faisal"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-02\nADBMS\nM. Arslan",
+      "lines": [
+        "ADBMS",
+        "M. Arslan"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Hafsa Shakir\nOS (Lab)\nLAB-CS-305",
+      "lines": [
+        "Hafsa Shakir",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Saturday",
+      "time": "11:00-15:15",
+      "raw": "M. Arslan\nADBMS (LAB)\nLAB-CS-004",
+      "lines": [
+        "M. Arslan",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-5J",
+      "day": "Saturday",
+      "time": "15:30-16:45",
+      "raw": "CS-001\nWeb\nKinza\nHaroon",
+      "lines": [
+        "Web",
+        "Kinza",
+        "Haroon"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-204\nAA\nM. Tayya\nb",
+      "lines": [
+        "AA",
+        "M. Tayya",
+        "b"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-502\nADBMS\nMarium\nMehmood",
+      "lines": [
+        "ADBMS",
+        "Marium",
+        "Mehmood"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-001\nToA\nDr.Shahid",
+      "lines": [
+        "ToA",
+        "Dr.Shahid"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "FIT-307\nAI\nDr. Erum",
+      "lines": [
+        "AI",
+        "Dr. Erum"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Wednesday",
+      "time": "11:00-15:15",
+      "raw": "CS-204\nAA\nM. Tayya\nb",
+      "lines": [
+        "AA",
+        "M. Tayya",
+        "b"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-002\nToA\nDr.Shahid",
+      "lines": [
+        "ToA",
+        "Dr.Shahid"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "LB3-07\nOS\nAbbas",
+      "lines": [
+        "OS",
+        "Abbas"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "Samra\nAI (Lab)\nLAB-CS-305",
+      "lines": [
+        "Samra",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "Marium Mehmood\nADBMS (LAB)\nLAB-CS-301",
+      "lines": [
+        "Marium Mehmood",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "LB3-02\nAI\nDr. Erum",
+      "lines": [
+        "AI",
+        "Dr. Erum"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Friday",
+      "time": "09:30-13:45",
+      "raw": "LB3-06\nWeb\nUmair\nMujtaba",
+      "lines": [
+        "Web",
+        "Umair",
+        "Mujtaba"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "CS-201\nADBMS\nMarium\nMehmood",
+      "lines": [
+        "ADBMS",
+        "Marium",
+        "Mehmood"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-002\nOS\nAbbas",
+      "lines": [
+        "OS",
+        "Abbas"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Abbas\nOS (Lab)\nLAB-CS-304",
+      "lines": [
+        "Abbas",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Saturday",
+      "time": "11:00-15:15",
+      "raw": "Umair Mujtaba\nWeb (Lab)\nLAB-CS-003",
+      "lines": [
+        "Umair Mujtaba",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-5K",
+      "day": "Saturday",
+      "time": "15:30-16:45",
+      "raw": "CS-003\nWeb\nUmair\nMujtaba",
+      "lines": [
+        "Web",
+        "Umair",
+        "Mujtaba"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "Mateen Fatima\nADBMS (LAB)\nLAB-CS-304",
+      "lines": [
+        "Mateen Fatima",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-501\nToA\nHassan\nRaza",
+      "lines": [
+        "ToA",
+        "Hassan",
+        "Raza"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-05\nAI\nAmna\nHussain",
+      "lines": [
+        "AI",
+        "Amna",
+        "Hussain"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "Arslan Latif\nAI (Lab)\nLAB-CS-306",
+      "lines": [
+        "Arslan Latif",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-305\nToA\nHassan\nRaza",
+      "lines": [
+        "ToA",
+        "Hassan",
+        "Raza"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-307\nAI\nAmna\nHussain",
+      "lines": [
+        "AI",
+        "Amna",
+        "Hussain"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "CS-003\nWeb\nUmair\nMujtaba",
+      "lines": [
+        "Web",
+        "Umair",
+        "Mujtaba"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "Umair Mujtaba\nWeb (Lab)\nLAB-CS-301",
+      "lines": [
+        "Umair Mujtaba",
+        "Web (Lab)"
+      ],
+      "room": "LAB-CS-301"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-201\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "CS-201\nAA\nTemur Ul\nHassan",
+      "lines": [
+        "AA",
+        "Temur Ul",
+        "Hassan"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Friday",
+      "time": "09:30-13:45",
+      "raw": "LB3-01\nADBMS\nJunaid Ali",
+      "lines": [
+        "ADBMS",
+        "Junaid Ali"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "FIT-306\nWeb\nUmair\nMujtaba",
+      "lines": [
+        "Web",
+        "Umair",
+        "Mujtaba"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-03\nOS\nNida",
+      "lines": [
+        "OS",
+        "Nida"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Saturday",
+      "time": "09:30-10:45",
+      "raw": "LB3-03\nAA\nTemur Ul\nHassan",
+      "lines": [
+        "AA",
+        "Temur Ul",
+        "Hassan"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Saturday",
+      "time": "11:00-15:15",
+      "raw": "Nida\nOS (Lab)\nLAB-CS-304",
+      "lines": [
+        "Nida",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-5L",
+      "day": "Saturday",
+      "time": "15:30-16:45",
+      "raw": "CS-005\nOS\nNida",
+      "lines": [
+        "OS",
+        "Nida"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Tuesday",
+      "time": "08:00-12:15",
+      "raw": "CS-201\nWeb\nSalman\nIrfan",
+      "lines": [
+        "Web",
+        "Salman",
+        "Irfan"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Tuesday",
+      "time": "12:30-15:15",
+      "raw": "FIT-308\nADBMS\nMarium\nMehmood",
+      "lines": [
+        "ADBMS",
+        "Marium",
+        "Mehmood"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-309\nAA\nSajid\nIqbal",
+      "lines": [
+        "AA",
+        "Sajid",
+        "Iqbal"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Wednesday",
+      "time": "08:00-10:45",
+      "raw": "CS-205\nWeb\nSalman\nIrfan",
+      "lines": [
+        "Web",
+        "Salman",
+        "Irfan"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Wednesday",
+      "time": "11:00-15:15",
+      "raw": "Nida\nOS (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Nida",
+        "OS (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-204\nADBMS\nMarium\nMehmood",
+      "lines": [
+        "ADBMS",
+        "Marium",
+        "Mehmood"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Thursday",
+      "time": "11:00-12:15",
+      "raw": "CS-104\nAA\nSajid\nIqbal",
+      "lines": [
+        "AA",
+        "Sajid",
+        "Iqbal"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "FIT-307\nToA\nM Faisal",
+      "lines": [
+        "ToA",
+        "M Faisal"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "M Zaman\nWeb (Lab)\nLAB-AHS-301",
+      "lines": [
+        "M Zaman",
+        "Web (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Friday",
+      "time": "08:00-13:45",
+      "raw": "Marium Mehmood\nADBMS (LAB)\nLAB-AHS-301",
+      "lines": [
+        "Marium Mehmood",
+        "ADBMS (LAB)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "FIT-305\nOS\nNida",
+      "lines": [
+        "OS",
+        "Nida"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "FIT-308\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Saturday",
+      "time": "08:00-09:15",
+      "raw": "CS-005\nAI\nSaba\nRamzan",
+      "lines": [
+        "AI",
+        "Saba",
+        "Ramzan"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Saturday",
+      "time": "09:30-12:15",
+      "raw": "LB3-02\nOS\nNida",
+      "lines": [
+        "OS",
+        "Nida"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Saturday",
+      "time": "12:30-13:45",
+      "raw": "LB3-02\nToA\nM Faisal",
+      "lines": [
+        "ToA",
+        "M Faisal"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-5M",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Zainab Wajid\nAI (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Zainab Wajid",
+        "AI (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-5O",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "CS-205\nNumeric\nal\nDr. M\nJawaz",
+      "lines": [
+        "Numeric",
+        "al",
+        "Dr. M",
+        "Jawaz"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-5O",
+      "day": "Tuesday",
+      "time": "11:00-16:45",
+      "raw": "FIT-510\nDifferent\nial\nRubiqa",
+      "lines": [
+        "Different",
+        "ial",
+        "Rubiqa"
+      ],
+      "room": "FIT-510"
+    },
+    {
+      "section": "BSCS-5O",
+      "day": "Wednesday",
+      "time": "08:00-16:45",
+      "raw": "CS-206\nCompile\nr\nM Faisal",
+      "lines": [
+        "Compile",
+        "r",
+        "M Faisal"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-5O",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "FIT-307\nNumeric\nal\nDr. M\nJawaz",
+      "lines": [
+        "Numeric",
+        "al",
+        "Dr. M",
+        "Jawaz"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-5O",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "LB3-01\nDifferent\nial\nRubiqa",
+      "lines": [
+        "Different",
+        "ial",
+        "Rubiqa"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-5O",
+      "day": "Saturday",
+      "time": "11:00-16:45",
+      "raw": "CS-206\nCompile\nr\nM Faisal",
+      "lines": [
+        "Compile",
+        "r",
+        "M Faisal"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "FIT-508\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Monday",
+      "time": "11:00-12:15",
+      "raw": "CS-001\nC.Netwo\nrks\nNadeem\nAkhtar",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Nadeem",
+        "Akhtar"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "CS-206\nOS\nFatima\nAhmad",
+      "lines": [
+        "OS",
+        "Fatima",
+        "Ahmad"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "CS-005\nAdv.SE\nDr. Atif\nIkram",
+      "lines": [
+        "Adv.SE",
+        "Dr. Atif",
+        "Ikram"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Tuesday",
+      "time": "09:30-12:15",
+      "raw": "CS-002\nC.Netwo\nrks\nNadeem\nAkhtar",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Nadeem",
+        "Akhtar"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Tuesday",
+      "time": "12:30-15:15",
+      "raw": "CS-003\nAdv.SE\nDr. Atif\nIkram",
+      "lines": [
+        "Adv.SE",
+        "Dr. Atif",
+        "Ikram"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-108\nSPM\nSadia\nKhalid",
+      "lines": [
+        "SPM",
+        "Sadia",
+        "Khalid"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Wednesday",
+      "time": "09:30-10:45",
+      "raw": "CS-005\nSPM\nSadia\nKhalid",
+      "lines": [
+        "SPM",
+        "Sadia",
+        "Khalid"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Wednesday",
+      "time": "11:00-13:45",
+      "raw": "FIT-308\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Fatima Ahmad\nOS (Lab)\nLAB-CS-004",
+      "lines": [
+        "Fatima Ahmad",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "CS-206\nOS\nFatima\nAhmad",
+      "lines": [
+        "OS",
+        "Fatima",
+        "Ahmad"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-6A",
+      "day": "Thursday",
+      "time": "11:00-16:45",
+      "raw": "Nadeem Akhtar\nCN (Lab)\nLAB-CS-101",
+      "lines": [
+        "Nadeem Akhtar",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-6B",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "CS-205\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-6B",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-502\nAdv.SE\nM Arshad",
+      "lines": [
+        "Adv.SE",
+        "M Arshad"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-6B",
+      "day": "Thursday",
+      "time": "08:00-09:15",
+      "raw": "CS-104\nC.Netwo\nrks\nNadeem\nAkhtar",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Nadeem",
+        "Akhtar"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-6B",
+      "day": "Thursday",
+      "time": "09:30-16:45",
+      "raw": "CS-005\nOS\nNaveed\nAhmad",
+      "lines": [
+        "OS",
+        "Naveed",
+        "Ahmad"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Tayyaba Rehana\nCN (Lab)\nLAB-CS-004",
+      "lines": [
+        "Tayyaba Rehana",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "CS-204\nSPM\nSadia\nKhalid",
+      "lines": [
+        "SPM",
+        "Sadia",
+        "Khalid"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "FIT-309\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "CS-002\nAdv.SE\nDr. Atif\nIkram",
+      "lines": [
+        "Adv.SE",
+        "Dr. Atif",
+        "Ikram"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-309\nC.Netwo\nrks\nTayyaba\nRehana",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Tayyaba",
+        "Rehana"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "LB3-06\nOS\nFatima\nAhmad",
+      "lines": [
+        "OS",
+        "Fatima",
+        "Ahmad"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "FIT-502\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-07\nSPM\nSadia\nKhalid",
+      "lines": [
+        "SPM",
+        "Sadia",
+        "Khalid"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "CS-005\nC.Netwo\nrks\nTayyaba\nRehana",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Tayyaba",
+        "Rehana"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Wednesday",
+      "time": "12:30-15:15",
+      "raw": "FIT-306\nOS\nFatima\nAhmad",
+      "lines": [
+        "OS",
+        "Fatima",
+        "Ahmad"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-206\nAdv.SE\nDr. Atif\nIkram",
+      "lines": [
+        "Adv.SE",
+        "Dr. Atif",
+        "Ikram"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-6C",
+      "day": "Thursday",
+      "time": "11:00-16:45",
+      "raw": "Fatima Ahmad\nOS (Lab)\nLAB-CS-004",
+      "lines": [
+        "Fatima Ahmad",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-004"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "FIT-305\nSPM\nAmna\nShoukat",
+      "lines": [
+        "SPM",
+        "Amna",
+        "Shoukat"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Monday",
+      "time": "09:30-10:45",
+      "raw": "FIT-508\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "Hussnain Ayoub\nOS (Lab)\nLAB-CS-306",
+      "lines": [
+        "Hussnain Ayoub",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "LB3-04\nC.Netwo\nrks\nIqra\nAdnan",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Iqra",
+        "Adnan"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "CS-207\nOS\nM. Ali\nIlyas",
+      "lines": [
+        "OS",
+        "M. Ali",
+        "Ilyas"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Tuesday",
+      "time": "08:00-12:15",
+      "raw": "FIT-502\nAdv.SE\nSaman\nAsad",
+      "lines": [
+        "Adv.SE",
+        "Saman",
+        "Asad"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Tuesday",
+      "time": "12:30-15:15",
+      "raw": "FIT-502\nT&BW\nAli Anwar",
+      "lines": [
+        "T&BW",
+        "Ali Anwar"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-01\nOS\nM. Ali\nIlyas",
+      "lines": [
+        "OS",
+        "M. Ali",
+        "Ilyas"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "FIT-306\nSPM\nAmna\nShoukat",
+      "lines": [
+        "SPM",
+        "Amna",
+        "Shoukat"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "LB3-08\nC.Netwo\nrks\nIqra\nAdnan",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Iqra",
+        "Adnan"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "CS-205\nAdv.SE\nSaman\nAsad",
+      "lines": [
+        "Adv.SE",
+        "Saman",
+        "Asad"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-6D",
+      "day": "Thursday",
+      "time": "11:00-16:45",
+      "raw": "Iqra Adnan\nCN (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Iqra Adnan",
+        "CN (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "LB3-108\nC.Netwo\nrks\nM Abdulla\nh",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "M Abdulla",
+        "h"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Monday",
+      "time": "09:30-10:45",
+      "raw": "CS-205\nT&BW\nRa'ana",
+      "lines": [
+        "T&BW",
+        "Ra'ana"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Monday",
+      "time": "11:00-12:15",
+      "raw": "FIT-305\nSPM\nAmna\nShoukat",
+      "lines": [
+        "SPM",
+        "Amna",
+        "Shoukat"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "CS-005\nOS\nM. Ali\nIlyas",
+      "lines": [
+        "OS",
+        "M. Ali",
+        "Ilyas"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Hussnain Ayoub\nOS (Lab)\nLAB-CS-304",
+      "lines": [
+        "Hussnain Ayoub",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "LB3-07\nSPM\nAmna\nShoukat",
+      "lines": [
+        "SPM",
+        "Amna",
+        "Shoukat"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "M Abdullah\nCN (Lab)\nLAB-CS-305",
+      "lines": [
+        "M Abdullah",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "CS-005\nOS\nM. Ali\nIlyas",
+      "lines": [
+        "OS",
+        "M. Ali",
+        "Ilyas"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-509\nAdv.SE\nSaman\nAsad",
+      "lines": [
+        "Adv.SE",
+        "Saman",
+        "Asad"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "CS-002\nC.Netwo\nrks\nM Abdulla\nh",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "M Abdulla",
+        "h"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Thursday",
+      "time": "11:00-12:15",
+      "raw": "LB3-02\nT&BW\nRa'ana",
+      "lines": [
+        "T&BW",
+        "Ra'ana"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-6E",
+      "day": "Thursday",
+      "time": "12:30-16:45",
+      "raw": "LB3-06\nAdv.SE\nSaman\nAsad",
+      "lines": [
+        "Adv.SE",
+        "Saman",
+        "Asad"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "CS-204\nSPM\nNoor Ul\nAin",
+      "lines": [
+        "SPM",
+        "Noor Ul",
+        "Ain"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Monday",
+      "time": "09:30-12:15",
+      "raw": "FIT-501\nOS\nAli Hussai\nn",
+      "lines": [
+        "OS",
+        "Ali Hussai",
+        "n"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "FIT-306\nC.Netwo\nrks\nTayyaba\nRehana",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Tayyaba",
+        "Rehana"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "CS-205\nT&BW\nRa'ana",
+      "lines": [
+        "T&BW",
+        "Ra'ana"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "CS-001\nAdv.SE\nM Arshad",
+      "lines": [
+        "Adv.SE",
+        "M Arshad"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-501\nOS\nAli Hussai\nn",
+      "lines": [
+        "OS",
+        "Ali Hussai",
+        "n"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-306\nSPM\nNoor Ul\nAin",
+      "lines": [
+        "SPM",
+        "Noor Ul",
+        "Ain"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "Ali Hussain\nOS (Lab)\nLAB-CS-002",
+      "lines": [
+        "Ali Hussain",
+        "OS (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-108\nAdv.SE\nM Arshad",
+      "lines": [
+        "Adv.SE",
+        "M Arshad"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "LB3-04\nC.Netwo\nrks\nTayyaba\nRehana",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Tayyaba",
+        "Rehana"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "LB3-05\nT&BW\nRa'ana",
+      "lines": [
+        "T&BW",
+        "Ra'ana"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-6G",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Tayyaba Rehana\nCN (Lab)\nLAB-CS-101",
+      "lines": [
+        "Tayyaba Rehana",
+        "CN (Lab)"
+      ],
+      "room": "LAB-CS-101"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "LB3-07\nT&BW\nE7",
+      "lines": [
+        "T&BW",
+        "E7"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Monday",
+      "time": "09:30-12:15",
+      "raw": "CS-005\nC.Netwo\nrks\nDr. M.\nIbrar",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Dr. M.",
+        "Ibrar"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "LB3-05\nAdv.SE\nM Arshad",
+      "lines": [
+        "Adv.SE",
+        "M Arshad"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Monday",
+      "time": "14:00-15:15",
+      "raw": "FIT-308\nSPM\nNoor Ul\nAin",
+      "lines": [
+        "SPM",
+        "Noor Ul",
+        "Ain"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "FIT-309\nOS\nAli Hussai\nn",
+      "lines": [
+        "OS",
+        "Ali Hussai",
+        "n"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "CS-207\nT&BW\nE7",
+      "lines": [
+        "T&BW",
+        "E7"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Tuesday",
+      "time": "09:30-12:15",
+      "raw": "LB3-04\nC.Netwo\nrks\nDr. M.\nIbrar",
+      "lines": [
+        "C.Netwo",
+        "rks",
+        "Dr. M.",
+        "Ibrar"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Tuesday",
+      "time": "12:30-13:45",
+      "raw": "FIT-509\nSPM\nNoor Ul\nAin",
+      "lines": [
+        "SPM",
+        "Noor Ul",
+        "Ain"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "Ayesha Khushnood\nCN (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Ayesha Khushnood",
+        "CN (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "CS-003\nOS\nAli Hussai\nn",
+      "lines": [
+        "OS",
+        "Ali Hussai",
+        "n"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "CS-205\nAdv.SE\nM Arshad",
+      "lines": [
+        "Adv.SE",
+        "M Arshad"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-6H",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Ali Hussain\nOS (Lab)\nLAB-AHS-301",
+      "lines": [
+        "Ali Hussain",
+        "OS (Lab)"
+      ],
+      "room": "LAB-AHS-301"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Monday",
+      "time": "08:00-12:15",
+      "raw": "CS-005\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Monday",
+      "time": "12:30-15:15",
+      "raw": "CS-104\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "CS-204\nAI\nAsif",
+      "lines": [
+        "AI",
+        "Asif"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-308\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Tuesday",
+      "time": "09:30-12:15",
+      "raw": "CS-205\nAI\nAsif",
+      "lines": [
+        "AI",
+        "Asif"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Tuesday",
+      "time": "12:30-13:45",
+      "raw": "CS-005\nML\nDr.\nMubbash\nar Saddiq\nue",
+      "lines": [
+        "ML",
+        "Dr.",
+        "Mubbash",
+        "ar Saddiq",
+        "ue"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "LB3-05\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "Ahsan Shakeel\nAI (Lab)\nLAB-CS-309",
+      "lines": [
+        "Ahsan Shakeel",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-309"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "CS-003\nML\nDr.\nMubbash\nar Saddiq\nue",
+      "lines": [
+        "ML",
+        "Dr.",
+        "Mubbash",
+        "ar Saddiq",
+        "ue"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-7A",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Abdus Samad\nCDC\nLAB-CS-311",
+      "lines": [
+        "Abdus Samad",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Ahsan Shakeel\nAI (Lab)\nLAB-CS-305",
+      "lines": [
+        "Ahsan Shakeel",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Monday",
+      "time": "11:00-15:15",
+      "raw": "LB3-03\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Monday",
+      "time": "15:30-16:45",
+      "raw": "FIT-306\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Tuesday",
+      "time": "08:00-09:15",
+      "raw": "CS-002\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Tuesday",
+      "time": "09:30-12:15",
+      "raw": "CS-104\nML\nSalman\nAli",
+      "lines": [
+        "ML",
+        "Salman",
+        "Ali"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Tuesday",
+      "time": "12:30-13:45",
+      "raw": "CS-207\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "CS-205\nAI\nAsif",
+      "lines": [
+        "AI",
+        "Asif"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "CS-104\nML\nSalman\nAli",
+      "lines": [
+        "ML",
+        "Salman",
+        "Ali"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Wednesday",
+      "time": "12:30-13:45",
+      "raw": "CS-204\nAI\nAsif",
+      "lines": [
+        "AI",
+        "Asif"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-7B",
+      "day": "Wednesday",
+      "time": "14:00-16:45",
+      "raw": "Abdus Samad\nCDC\nLAB-CS-311",
+      "lines": [
+        "Abdus Samad",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Ahmed Khubaib\nCDC\nLAB-CS-311",
+      "lines": [
+        "Ahmed Khubaib",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "Ahsan Shakeel\nAI (Lab)\nLAB-CS-304",
+      "lines": [
+        "Ahsan Shakeel",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "CS-204\nAI\nAsif",
+      "lines": [
+        "AI",
+        "Asif"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "FIT-508\nPDC\nRamisha",
+      "lines": [
+        "PDC",
+        "Ramisha"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-104\nML\nSalman\nAli",
+      "lines": [
+        "ML",
+        "Salman",
+        "Ali"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Tuesday",
+      "time": "14:00-15:15",
+      "raw": "LB3-03\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-207\nAI\nAsif",
+      "lines": [
+        "AI",
+        "Asif"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Wednesday",
+      "time": "11:00-12:15",
+      "raw": "FIT-306\nPDC\nRamisha",
+      "lines": [
+        "PDC",
+        "Ramisha"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Wednesday",
+      "time": "12:30-15:15",
+      "raw": "CS-104\nML\nSalman\nAli",
+      "lines": [
+        "ML",
+        "Salman",
+        "Ali"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7C",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "CS-201\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Ahmed Khubaib\nCDC\nLAB-CS-311",
+      "lines": [
+        "Ahmed Khubaib",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Monday",
+      "time": "11:00-12:15",
+      "raw": "LB3-02\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "LB3-02"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "LB3-04\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Zeemal Sadaqat\nAI (Lab)\nLAB-CS-305",
+      "lines": [
+        "Zeemal Sadaqat",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "CS-204\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "CS-207\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "CS-104\nML\nSalman\nAli",
+      "lines": [
+        "ML",
+        "Salman",
+        "Ali"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Wednesday",
+      "time": "08:00-12:15",
+      "raw": "FIT-501\nENT\nENT1",
+      "lines": [
+        "ENT",
+        "ENT1"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Wednesday",
+      "time": "12:30-15:15",
+      "raw": "CS-207\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-7D",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-309\nML\nSalman\nAli",
+      "lines": [
+        "ML",
+        "Salman",
+        "Ali"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Thursday",
+      "time": "09:30-10:45",
+      "raw": "FIT-305\nENT\nFatima\nNadeem",
+      "lines": [
+        "ENT",
+        "Fatima",
+        "Nadeem"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Thursday",
+      "time": "11:00-15:15",
+      "raw": "FIT-306\nML\nUsman\nTariq",
+      "lines": [
+        "ML",
+        "Usman",
+        "Tariq"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "FIT-308\nPDC\nAhmad\nZia",
+      "lines": [
+        "PDC",
+        "Ahmad",
+        "Zia"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "LB3-06\nAI\nAmjad\nRaza",
+      "lines": [
+        "AI",
+        "Amjad",
+        "Raza"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-306\nML\nUsman\nTariq",
+      "lines": [
+        "ML",
+        "Usman",
+        "Tariq"
+      ],
+      "room": "FIT-306"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "LB3-04\nENT\nFatima\nNadeem",
+      "lines": [
+        "ENT",
+        "Fatima",
+        "Nadeem"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-04\nPDC\nAhmad\nZia",
+      "lines": [
+        "PDC",
+        "Ahmad",
+        "Zia"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "CS-001\nAI\nAmjad\nRaza",
+      "lines": [
+        "AI",
+        "Amjad",
+        "Raza"
+      ],
+      "room": "CS-001"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "Soniza Daar\nCDC\nLAB-CS-311",
+      "lines": [
+        "Soniza Daar",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7G",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Amjad Raza\nAI (Lab)\nLAB-CS-305",
+      "lines": [
+        "Amjad Raza",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Thursday",
+      "time": "08:00-12:15",
+      "raw": "CS-005\nENT\nFatima\nNadeem",
+      "lines": [
+        "ENT",
+        "Fatima",
+        "Nadeem"
+      ],
+      "room": "CS-005"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Thursday",
+      "time": "12:30-15:15",
+      "raw": "FIT-305\nPDC\nAyesha\nRafique",
+      "lines": [
+        "PDC",
+        "Ayesha",
+        "Rafique"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "LB3-01\nML\nMuddass\nar Ahmad",
+      "lines": [
+        "ML",
+        "Muddass",
+        "ar Ahmad"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "FIT-308\nAI\nRaheela\nRaza",
+      "lines": [
+        "AI",
+        "Raheela",
+        "Raza"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Friday",
+      "time": "11:00-15:15",
+      "raw": "FIT-501\nENT\nFatima\nNadeem",
+      "lines": [
+        "ENT",
+        "Fatima",
+        "Nadeem"
+      ],
+      "room": "FIT-501"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "LB3-01\nML\nMuddass\nar Ahmad",
+      "lines": [
+        "ML",
+        "Muddass",
+        "ar Ahmad"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Raheela Raza\nAI (Lab)\nLAB-CS-003",
+      "lines": [
+        "Raheela Raza",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-003"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Saturday",
+      "time": "11:00-13:45",
+      "raw": "Soniza Daar\nCDC\nLAB-CS-311",
+      "lines": [
+        "Soniza Daar",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Saturday",
+      "time": "14:00-15:15",
+      "raw": "LB3-01\nPDC\nAyesha\nRafique",
+      "lines": [
+        "PDC",
+        "Ayesha",
+        "Rafique"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-7H",
+      "day": "Saturday",
+      "time": "15:30-16:45",
+      "raw": "LB3-01\nAI\nRaheela\nRaza",
+      "lines": [
+        "AI",
+        "Raheela",
+        "Raza"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "FIT-508\nAI\nKhadija",
+      "lines": [
+        "AI",
+        "Khadija"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Thursday",
+      "time": "11:00-13:45",
+      "raw": "FIT-309\nML\nMuddass\nar Ahmad",
+      "lines": [
+        "ML",
+        "Muddass",
+        "ar Ahmad"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Thursday",
+      "time": "14:00-15:15",
+      "raw": "FIT-305\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "CS-104\nPDC\nAyesha\nRafique",
+      "lines": [
+        "PDC",
+        "Ayesha",
+        "Rafique"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Friday",
+      "time": "08:00-10:45",
+      "raw": "FIT-307\nPDC\nAyesha\nRafique",
+      "lines": [
+        "PDC",
+        "Ayesha",
+        "Rafique"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-307\nML\nMuddass\nar Ahmad",
+      "lines": [
+        "ML",
+        "Muddass",
+        "ar Ahmad"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "FIT-502\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "FIT-305\nAI\nKhadija",
+      "lines": [
+        "AI",
+        "Khadija"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Saturday",
+      "time": "08:00-10:45",
+      "raw": "Lyba Shoaib\nCDC\nLAB-CS-311",
+      "lines": [
+        "Lyba Shoaib",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7I",
+      "day": "Saturday",
+      "time": "11:00-16:45",
+      "raw": "Khadija\nAI (Lab)\nLAB-CS-002",
+      "lines": [
+        "Khadija",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-002"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "FIT-305\nAI\nKhadija",
+      "lines": [
+        "AI",
+        "Khadija"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Friday",
+      "time": "09:30-13:45",
+      "raw": "FIT-502\nML\nMuddass\nar Ahmad",
+      "lines": [
+        "ML",
+        "Muddass",
+        "ar Ahmad"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "FIT-508\nPDC\nAyesha\nRafique",
+      "lines": [
+        "PDC",
+        "Ayesha",
+        "Rafique"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "FIT-309\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Saturday",
+      "time": "08:00-12:15",
+      "raw": "Lyba Shoaib\nCDC\nLAB-CS-311",
+      "lines": [
+        "Lyba Shoaib",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Saturday",
+      "time": "12:30-13:45",
+      "raw": "CS-104\nPDC\nAyesha\nRafique",
+      "lines": [
+        "PDC",
+        "Ayesha",
+        "Rafique"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-7J",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "Khadija\nAI (Lab)\nLAB-CS-306",
+      "lines": [
+        "Khadija",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-306"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Monday",
+      "time": "08:00-09:15",
+      "raw": "CS-205\nPDC\nRamisha",
+      "lines": [
+        "PDC",
+        "Ramisha"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Monday",
+      "time": "09:30-10:45",
+      "raw": "LB3-01\nML\nTahseen\nFatima",
+      "lines": [
+        "ML",
+        "Tahseen",
+        "Fatima"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Monday",
+      "time": "11:00-13:45",
+      "raw": "Atif Raza\nAI (Lab)\nLAB-CS-305",
+      "lines": [
+        "Atif Raza",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-305"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Hassan Zameer\nCDC\nLAB-CS-311",
+      "lines": [
+        "Hassan Zameer",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Tuesday",
+      "time": "08:00-10:45",
+      "raw": "LB3-08\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "LB3-08"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Tuesday",
+      "time": "11:00-12:15",
+      "raw": "CS-205\nML\nTahseen\nFatima",
+      "lines": [
+        "ML",
+        "Tahseen",
+        "Fatima"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Tuesday",
+      "time": "12:30-15:15",
+      "raw": "CS-204\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-204"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Tuesday",
+      "time": "15:30-16:45",
+      "raw": "CS-206\nPDC\nRamisha",
+      "lines": [
+        "PDC",
+        "Ramisha"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Wednesday",
+      "time": "14:00-15:15",
+      "raw": "CS-201\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-7K",
+      "day": "Wednesday",
+      "time": "15:30-16:45",
+      "raw": "FIT-308\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Monday",
+      "time": "08:00-10:45",
+      "raw": "Atif Raza\nAI (Lab)\nLAB-CS-304",
+      "lines": [
+        "Atif Raza",
+        "AI (Lab)"
+      ],
+      "room": "LAB-CS-304"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Monday",
+      "time": "11:00-12:15",
+      "raw": "LB3-04\nML\nTahseen\nFatima",
+      "lines": [
+        "ML",
+        "Tahseen",
+        "Fatima"
+      ],
+      "room": "LB3-04"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Monday",
+      "time": "12:30-13:45",
+      "raw": "CS-201\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Monday",
+      "time": "14:00-16:45",
+      "raw": "Hassan Zameer\nCDC\nLAB-CS-311",
+      "lines": [
+        "Hassan Zameer",
+        "CDC"
+      ],
+      "room": "LAB-CS-311"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Tuesday",
+      "time": "09:30-10:45",
+      "raw": "LB3-108\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "LB3-108"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Tuesday",
+      "time": "11:00-13:45",
+      "raw": "LB3-06\nPDC\nRamisha",
+      "lines": [
+        "PDC",
+        "Ramisha"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Tuesday",
+      "time": "14:00-16:45",
+      "raw": "CS-207\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Wednesday",
+      "time": "08:00-09:15",
+      "raw": "FIT-309\nPDC\nRamisha",
+      "lines": [
+        "PDC",
+        "Ramisha"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Wednesday",
+      "time": "09:30-12:15",
+      "raw": "FIT-307\nENT\nENT2",
+      "lines": [
+        "ENT",
+        "ENT2"
+      ],
+      "room": "FIT-307"
+    },
+    {
+      "section": "BSCS-7L",
+      "day": "Wednesday",
+      "time": "12:30-16:45",
+      "raw": "LB3-06\nML\nTahseen\nFatima",
+      "lines": [
+        "ML",
+        "Tahseen",
+        "Fatima"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-7M",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "CS-207\nAI\nAqsa\nAqdus",
+      "lines": [
+        "AI",
+        "Aqsa",
+        "Aqdus"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-7M",
+      "day": "Thursday",
+      "time": "14:00-15:15",
+      "raw": "FIT-509\nENT\nENT3",
+      "lines": [
+        "ENT",
+        "ENT3"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-7M",
+      "day": "Thursday",
+      "time": "15:30-16:45",
+      "raw": "FIT-509\nPDC\nNayab\nGull",
+      "lines": [
+        "PDC",
+        "Nayab",
+        "Gull"
+      ],
+      "room": "FIT-509"
+    },
+    {
+      "section": "BSCS-8B",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "LB3-05\nIS\nShehla\nsaeed",
+      "lines": [
+        "IS",
+        "Shehla",
+        "saeed"
+      ],
+      "room": "LB3-05"
+    },
+    {
+      "section": "BSCS-8B",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "FIT-309\nS.Testin\ng\nSadaf\nMasood",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Sadaf",
+        "Masood"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-8B",
+      "day": "Saturday",
+      "time": "08:00-09:15",
+      "raw": "CS-104\nDDBS\nHammad\nHasan",
+      "lines": [
+        "DDBS",
+        "Hammad",
+        "Hasan"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-8B",
+      "day": "Saturday",
+      "time": "09:30-16:45",
+      "raw": "CS-104\nS.Testin\ng\nSadaf\nMasood",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Sadaf",
+        "Masood"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-8C",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "CS-206\nS.Testin\ng\nSadaf\nMasood",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Sadaf",
+        "Masood"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-8C",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-502\nOB\nShamsa\nKanwal",
+      "lines": [
+        "OB",
+        "Shamsa",
+        "Kanwal"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-8C",
+      "day": "Friday",
+      "time": "14:00-16:45",
+      "raw": "LB3-06\nIS\nShehla\nsaeed",
+      "lines": [
+        "IS",
+        "Shehla",
+        "saeed"
+      ],
+      "room": "LB3-06"
+    },
+    {
+      "section": "BSCS-8C",
+      "day": "Saturday",
+      "time": "11:00-12:15",
+      "raw": "CS-201\nOB\nShamsa\nKanwal",
+      "lines": [
+        "OB",
+        "Shamsa",
+        "Kanwal"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-8C",
+      "day": "Saturday",
+      "time": "12:30-13:45",
+      "raw": "CS-003\nS.Testin\ng\nSadaf\nMasood",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Sadaf",
+        "Masood"
+      ],
+      "room": "CS-003"
+    },
+    {
+      "section": "BSCS-8C",
+      "day": "Saturday",
+      "time": "14:00-16:45",
+      "raw": "CS-104\nDDBS\nHammad\nHasan",
+      "lines": [
+        "DDBS",
+        "Hammad",
+        "Hasan"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Thursday",
+      "time": "08:00-10:45",
+      "raw": "CS-201\nS.Testin\ng\nAsim\nRaza",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Asim",
+        "Raza"
+      ],
+      "room": "CS-201"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Thursday",
+      "time": "11:00-12:15",
+      "raw": "FIT-305\nOB\nShamsa\nKanwal",
+      "lines": [
+        "OB",
+        "Shamsa",
+        "Kanwal"
+      ],
+      "room": "FIT-305"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Thursday",
+      "time": "12:30-16:45",
+      "raw": "FIT-502\nIS\nAmjad\nRaza",
+      "lines": [
+        "IS",
+        "Amjad",
+        "Raza"
+      ],
+      "room": "FIT-502"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Friday",
+      "time": "11:00-13:45",
+      "raw": "FIT-508\nIS\nAmjad\nRaza",
+      "lines": [
+        "IS",
+        "Amjad",
+        "Raza"
+      ],
+      "room": "FIT-508"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Friday",
+      "time": "14:00-15:15",
+      "raw": "LB3-07\nANN\nMujtaba\nHassan",
+      "lines": [
+        "ANN",
+        "Mujtaba",
+        "Hassan"
+      ],
+      "room": "LB3-07"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-207\nS.Testin\ng\nAsim\nRaza",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Asim",
+        "Raza"
+      ],
+      "room": "CS-207"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Saturday",
+      "time": "11:00-12:15",
+      "raw": "LB3-01\nANN\nMujtaba\nHassan",
+      "lines": [
+        "ANN",
+        "Mujtaba",
+        "Hassan"
+      ],
+      "room": "LB3-01"
+    },
+    {
+      "section": "BSCS-8D",
+      "day": "Saturday",
+      "time": "12:30-16:45",
+      "raw": "CS-002\nOB\nShamsa\nKanwal",
+      "lines": [
+        "OB",
+        "Shamsa",
+        "Kanwal"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Thursday",
+      "time": "12:30-13:45",
+      "raw": "FIT-309\nS.Testin\ng\nAsim\nRaza",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Asim",
+        "Raza"
+      ],
+      "room": "FIT-309"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Thursday",
+      "time": "14:00-16:45",
+      "raw": "FIT-308\nIS\nMaryam\nSuhail",
+      "lines": [
+        "IS",
+        "Maryam",
+        "Suhail"
+      ],
+      "room": "FIT-308"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Friday",
+      "time": "08:00-09:15",
+      "raw": "CS-205\nS.Testin\ng\nAsim\nRaza",
+      "lines": [
+        "S.Testin",
+        "g",
+        "Asim",
+        "Raza"
+      ],
+      "room": "CS-205"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Friday",
+      "time": "09:30-10:45",
+      "raw": "LB3-03\nIS\nMaryam\nSuhail",
+      "lines": [
+        "IS",
+        "Maryam",
+        "Suhail"
+      ],
+      "room": "LB3-03"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Friday",
+      "time": "11:00-15:15",
+      "raw": "CS-206\nANN\nMujtaba\nHassan",
+      "lines": [
+        "ANN",
+        "Mujtaba",
+        "Hassan"
+      ],
+      "room": "CS-206"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Friday",
+      "time": "15:30-16:45",
+      "raw": "CS-104\nOB\nShamsa\nKanwal",
+      "lines": [
+        "OB",
+        "Shamsa",
+        "Kanwal"
+      ],
+      "room": "CS-104"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Saturday",
+      "time": "08:00-09:15",
+      "raw": "CS-002\nOB\nShamsa\nKanwal",
+      "lines": [
+        "OB",
+        "Shamsa",
+        "Kanwal"
+      ],
+      "room": "CS-002"
+    },
+    {
+      "section": "BSCS-8E",
+      "day": "Saturday",
+      "time": "09:30-16:45",
+      "raw": "LB3-01\nANN\nMujtaba\nHassan",
+      "lines": [
+        "ANN",
+        "Mujtaba",
+        "Hassan"
+      ],
+      "room": "LB3-01"
+    }
+  ]
+}
