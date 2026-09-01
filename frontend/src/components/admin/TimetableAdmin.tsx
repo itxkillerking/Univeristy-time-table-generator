@@ -66,17 +66,19 @@ export default function TimetableAdmin() {
     );
   }
 
+  const safeData = currentData || { metadata: { title: "New Dataset", source: "Empty", record_count: 0, effective_date: new Date().toISOString(), schema: [] }, classes: [] };
+
   if (view === 'import') {
-    return <TimetableImport onCancel={() => setView('dashboard')} onPublished={() => setView('dashboard')} currentData={currentData!} baseVersionId={apiStats?.id} />;
+    return <TimetableImport onCancel={() => setView('dashboard')} onPublished={() => setView('dashboard')} currentData={safeData} baseVersionId={apiStats?.id} />;
   }
 
   if (view === 'manual') {
-    return <ManualSectionForm onCancel={() => setView('dashboard')} onPublished={() => setView('dashboard')} currentData={currentData!} baseVersionId={apiStats?.id} initialData={editSectionData} />;
+    return <ManualSectionForm onCancel={() => setView('dashboard')} onPublished={() => setView('dashboard')} currentData={safeData} baseVersionId={apiStats?.id} initialData={editSectionData} />;
   }
   
   if (view === 'sections') {
     return <SectionManager 
-      currentData={currentData!} 
+      currentData={safeData} 
       baseVersionId={apiStats?.id} 
       onCancel={() => setView('dashboard')} 
       onPublished={() => setView('dashboard')}
@@ -154,8 +156,8 @@ export default function TimetableAdmin() {
             </div>
           </div>
         ) : (
-          <div className="p-6 text-center text-red-600">
-            Current timetable data is corrupted or unavailable.
+          <div className="p-6 text-center text-slate-600 font-medium bg-slate-50">
+            No published timetable is available yet. Please import a dataset.
           </div>
         )}
       </div>
