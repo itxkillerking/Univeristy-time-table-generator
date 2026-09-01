@@ -87,35 +87,35 @@ export default function AnalyticsAdmin() {
 
   return (
     <div className="space-y-6">
-      <div className="flex items-center justify-between">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div className="flex items-center gap-3">
-          <BarChart2 className="w-6 h-6 text-slate-700" />
-          <h2 className="text-xl font-bold text-slate-900">Anonymous Usage Analytics</h2>
+          <BarChart2 className="w-6 h-6 text-slate-700 flex-shrink-0" />
+          <h2 className="text-xl font-bold text-slate-900 break-words">Anonymous Usage Analytics</h2>
         </div>
         
         {/* Period Filter */}
-        <div className="flex bg-slate-100 p-1 rounded-lg">
+        <div className="flex flex-wrap bg-slate-100 p-1 rounded-lg gap-1">
           <button
             onClick={() => setPeriod('today')}
-            className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${period === 'today' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-colors text-center ${period === 'today' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
           >
             Today
           </button>
           <button
             onClick={() => setPeriod('seven_days')}
-            className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${period === 'seven_days' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-colors text-center ${period === 'seven_days' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
           >
             7 Days
           </button>
           <button
             onClick={() => setPeriod('thirty_days')}
-            className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${period === 'thirty_days' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-colors text-center ${period === 'thirty_days' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
           >
             30 Days
           </button>
           <button
             onClick={() => setPeriod('all_time')}
-            className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${period === 'all_time' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-colors text-center ${period === 'all_time' ? 'bg-white shadow-sm text-slate-900' : 'text-slate-600 hover:text-slate-900'}`}
           >
             All Time
           </button>
