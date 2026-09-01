@@ -215,7 +215,7 @@ export default function TimetableImport({ onCancel, onPublished, currentData, ba
           <button 
             onClick={() => pdfInputRef.current?.click()}
             disabled={importState !== 'IDLE' && importState !== 'ERROR'}
-            className="flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition-colors shadow-sm disabled:opacity-50"
+            className="w-full sm:w-auto flex justify-center items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition-colors shadow-sm disabled:opacity-50"
           >
             <FileText className="w-5 h-5" />
             Import PDF
@@ -224,7 +224,7 @@ export default function TimetableImport({ onCancel, onPublished, currentData, ba
           <button 
             onClick={() => jsonInputRef.current?.click()}
             disabled={importState !== 'IDLE' && importState !== 'ERROR'}
-            className="flex items-center gap-2 px-6 py-3 bg-white border-2 border-slate-200 text-slate-700 rounded-lg font-semibold hover:bg-slate-50 transition-colors shadow-sm disabled:opacity-50"
+            className="w-full sm:w-auto flex justify-center items-center gap-2 px-6 py-3 bg-white border-2 border-slate-200 text-slate-700 rounded-lg font-semibold hover:bg-slate-50 transition-colors shadow-sm disabled:opacity-50"
           >
             <Upload className="w-5 h-5" />
             Import JSON

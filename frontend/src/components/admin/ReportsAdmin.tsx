@@ -80,7 +80,7 @@ export default function ReportsAdmin() {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
       {/* Reports List */}
-      <div className="lg:col-span-1 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col h-[600px]">
+      <div className={`lg:col-span-1 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col h-[400px] lg:h-[600px] ${selectedReport ? 'hidden lg:flex' : 'flex'}`}>
         <div className="p-4 border-b border-slate-100 bg-slate-50/50 flex items-center justify-between">
           <h2 className="font-semibold text-slate-900">All Reports</h2>
           <span className="text-xs font-medium text-slate-500 bg-slate-200 px-2 py-1 rounded-full">{reports.length}</span>
@@ -114,7 +114,7 @@ export default function ReportsAdmin() {
       </div>
 
       {/* Report Details & Reply */}
-      <div className="lg:col-span-2 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden h-[600px] flex flex-col">
+      <div className={`lg:col-span-2 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col h-auto min-h-[500px] lg:h-[600px] ${!selectedReport ? 'hidden lg:flex' : 'flex'}`}>
         {!selectedReport ? (
           <div className="flex-1 flex flex-col items-center justify-center text-slate-400 p-8 text-center">
             <MessageSquareWarning className="w-12 h-12 mb-4 text-slate-200" />
@@ -123,12 +123,24 @@ export default function ReportsAdmin() {
         ) : (
           <>
             <div className="p-6 border-b border-slate-100 bg-slate-50 overflow-y-auto flex-1">
-              <div className="flex justify-between items-start mb-4">
+              <div className="flex flex-col sm:flex-row justify-between sm:items-start gap-3 mb-4">
                 <div>
-                  <h2 className="text-xl font-bold text-slate-900">{selectedReport.category}</h2>
+                  <div className="flex items-center gap-2 mb-2 sm:hidden">
+                    <button onClick={() => setSelectedReport(null)} className="p-1 -ml-1 text-slate-500 hover:bg-slate-200 rounded">
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+                    </button>
+                    <span className={`px-2 py-0.5 text-[10px] font-bold rounded-full ${
+                      selectedReport.status === 'OPEN' ? 'bg-amber-100 text-amber-800' :
+                      selectedReport.status === 'NOTED' ? 'bg-blue-100 text-blue-800' :
+                      'bg-emerald-100 text-emerald-800'
+                    }`}>
+                      {selectedReport.status}
+                    </span>
+                  </div>
+                  <h2 className="text-xl font-bold text-slate-900 break-words">{selectedReport.category}</h2>
                   <p className="text-sm text-slate-500 mt-1">Submitted by {selectedReport.student_details.username} on {new Date(selectedReport.created_at).toLocaleString()}</p>
                 </div>
-                <span className={`px-3 py-1 text-xs font-bold rounded-full ${
+                <span className={`hidden sm:inline-block px-3 py-1 text-xs font-bold rounded-full ${
                   selectedReport.status === 'OPEN' ? 'bg-amber-100 text-amber-800' :
                   selectedReport.status === 'NOTED' ? 'bg-blue-100 text-blue-800' :
                   'bg-emerald-100 text-emerald-800'
@@ -137,7 +149,7 @@ export default function ReportsAdmin() {
                 </span>
               </div>
               
-              <div className="flex gap-4 mb-6 text-sm">
+              <div className="flex flex-col sm:flex-row gap-3 mb-6 text-sm">
                 {selectedReport.course && (
                   <div className="bg-white px-3 py-2 rounded border border-slate-200">
                     <span className="text-slate-500 block text-xs uppercase tracking-wider mb-0.5">Course</span>
@@ -191,17 +203,17 @@ export default function ReportsAdmin() {
                 />
               </div>
               
-              <div className="flex justify-end gap-3">
+              <div className="flex flex-col-reverse sm:flex-row justify-end gap-3 mt-4">
                 <button 
                   onClick={() => setSelectedReport(null)}
-                  className="px-4 py-2 text-sm font-medium text-slate-600 hover:text-slate-900 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors"
+                  className="w-full sm:w-auto px-4 py-2.5 text-sm font-medium text-slate-600 hover:text-slate-900 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors text-center"
                 >
                   Cancel
                 </button>
                 <button 
                   onClick={handleUpdate}
                   disabled={submitting}
-                  className="px-4 py-2 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 rounded-lg transition-colors disabled:opacity-50"
+                  className="w-full sm:w-auto px-4 py-2.5 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 rounded-lg transition-colors disabled:opacity-50 text-center"
                 >
                   {submitting ? 'Saving...' : 'Save & Update'}
                 </button>

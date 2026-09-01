@@ -15,5 +15,7 @@ urlpatterns = [
     path('api/timetable/', include('timetable.urls')),
     path('api/', include('reports.urls')),
     path('api/', include('announcements.urls')),
+    path('api/analytics/', include('analytics.urls')),
     path('api/admin/timetable/', include('timetable.admin_urls')),
+    path('api/admin/analytics/', include('analytics.admin_urls')),
 ]

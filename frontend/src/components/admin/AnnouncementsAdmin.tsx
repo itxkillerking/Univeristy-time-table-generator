@@ -147,16 +147,16 @@ export default function AnnouncementsAdmin() {
               </select>
             </div>
             
-            <div className="pt-4 flex justify-end gap-3 border-t border-slate-100">
+            <div className="pt-4 flex flex-col-reverse sm:flex-row justify-end gap-3 border-t border-slate-100">
               <button 
                 type="button" onClick={() => setIsEditing(false)}
-                className="px-4 py-2 text-sm font-medium text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors"
+                className="w-full sm:w-auto px-4 py-2.5 text-sm font-medium text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors text-center"
               >
                 Cancel
               </button>
               <button 
                 type="submit" disabled={submitting}
-                className="px-4 py-2 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 rounded-lg transition-colors disabled:opacity-50"
+                className="w-full sm:w-auto px-4 py-2.5 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 rounded-lg transition-colors disabled:opacity-50 text-center"
               >
                 {submitting ? 'Saving...' : 'Save Announcement'}
               </button>
@@ -202,7 +202,7 @@ export default function AnnouncementsAdmin() {
                 <p className="text-sm text-slate-600 line-clamp-2 mb-2">{ann.content}</p>
                 <span className="text-xs text-slate-400">Created: {new Date(ann.created_at).toLocaleString()}</span>
               </div>
-              <div className="flex items-start gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+              <div className="flex items-start gap-2 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity mt-2 md:mt-0">
                 <button 
                   onClick={() => handleEdit(ann)}
                   className="p-2 text-slate-400 hover:text-indigo-600 hover:bg-indigo-50 rounded-lg transition-colors"

@@ -1,8 +1,9 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import { ArrowLeft, Clock, MapPin, User, AlertTriangle, Download, Loader2 } from 'lucide-react';
 import type { Course, Schedule } from '../../types/timetable';
 import { detectClashes } from '../../lib/clash/clashDetector';
 import { generateTimetablePDF } from '../../lib/pdf/timetablePdf';
+import { trackEvent } from '../../lib/analytics';
 
 interface TimetableReviewProps {
   selectedCoursesData: Course[];
@@ -57,6 +58,12 @@ export default function TimetableReview({
     // Sort all blocks chronologically
     return blocks.sort((a, b) => a.schedule.startMinutes - b.schedule.startMinutes);
   }, [selectedCoursesData, selectedSectionIds]);
+
+  useEffect(() => {
+    if (scheduleBlocks.length > 0 && !clashReport.hasClashes) {
+      trackEvent('TIMETABLE_GENERATED');
+    }
+  }, [scheduleBlocks.length, clashReport.hasClashes]);
 
   // 3. Group strictly by Day
   const daysOfWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
@@ -130,21 +137,25 @@ export default function TimetableReview({
                   return;
                 }
                 setIsGeneratingPDF(true);
-                try {
-                  // Pass the exact semester from the first course (since all courses share the same semester)
-                  const semesterStr = selectedCoursesData.length > 0 ? selectedCoursesData[0].semester : 'Unknown Semester';
-                  
-                  await generateTimetablePDF(semesterStr, scheduleBlocks, {
-                    coursesCount: selectedCoursesData.length,
-                    sectionsCount: Object.keys(selectedSectionIds).length,
-                    meetingsCount: scheduleBlocks.length
-                  });
-                } catch (error) {
-                  console.error("PDF generation failed", error);
-                  alert("Failed to generate PDF. Please try again.");
-                } finally {
-                  setIsGeneratingPDF(false);
-                }
+                // 10ms timeout to allow React to render loading state before heavy work freezes thread
+                setTimeout(async () => {
+                  try {
+                    // Pass the exact semester from the first course (since all courses share the same semester)
+                    const semesterStr = selectedCoursesData.length > 0 ? selectedCoursesData[0].semester : 'Unknown Semester';
+                    
+                    await generateTimetablePDF(semesterStr, scheduleBlocks, {
+                      coursesCount: selectedCoursesData.length,
+                      sectionsCount: Object.keys(selectedSectionIds).length,
+                      meetingsCount: scheduleBlocks.length
+                    });
+                    trackEvent('PDF_GENERATED');
+                  } catch (error) {
+                    console.error("PDF generation failed", error);
+                    alert("Failed to generate PDF. Please try again.");
+                  } finally {
+                    setIsGeneratingPDF(false);
+                  }
+                }, 10);
               }}
               disabled={isGeneratingPDF || scheduleBlocks.length === 0 || clashReport.hasClashes}
               className="inline-flex items-center justify-center px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition-colors shadow-sm disabled:opacity-50 disabled:cursor-not-allowed min-w-[160px]"

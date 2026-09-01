@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'timetable',
     'reports',
     'announcements',
+    'analytics',
 ]
 
 MIDDLEWARE = [

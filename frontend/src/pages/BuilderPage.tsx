@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect } from 'react';
 
 import { getActiveTimetable } from '../lib/timetable/timetableLoader';
+import { trackEvent } from '../lib/analytics';
 import type { Course } from '../types/timetable';
 import SemesterSelector from '../components/builder/SemesterSelector';
 import CourseSearch from '../components/builder/CourseSearch';
@@ -20,6 +21,7 @@ export default function BuilderPage() {
       const courses = await getActiveTimetable();
       setTimetableCourses(courses);
       setLoading(false);
+      trackEvent('BUILDER_STARTED');
     }
     init();
   }, []);
