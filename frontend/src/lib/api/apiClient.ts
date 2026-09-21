@@ -1,8 +1,9 @@
 export async function fetchWithAuth(endpoint: string, options: RequestInit = {}) {
   const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
   
+  const isFormData = options.body instanceof FormData;
   const headers = {
-    'Content-Type': 'application/json',
+    ...(!isFormData && { 'Content-Type': 'application/json' }),
     ...(options.headers || {})
   };
 

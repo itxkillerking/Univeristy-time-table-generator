@@ -52,6 +52,9 @@ export const courseCatalogue: CourseCatalogueEntry[] = [
   { semester: "5th Semester", courseName: "Theory of Automata", shortName: "ToA", aliases: ["ToA"], isElective: false },
   { semester: "5th Semester", courseName: "Analysis of Algorithm", shortName: "AA", aliases: ["AA"], isElective: false },
   { semester: "5th Semester", courseName: "Web Engineering", shortName: "Web", aliases: ["Web"], isElective: false },
+  { semester: "5th Semester", courseName: "Compiler Construction", shortName: "Compiler", aliases: ["Compiler"], isElective: false },
+  { semester: "5th Semester", courseName: "Differential Equations", shortName: "Differential", aliases: ["Differential"], isElective: false },
+  { semester: "5th Semester", courseName: "Numerical Computing", shortName: "Numerical", aliases: ["Numerical"], isElective: false },
 
   // SEMESTER 6
   { semester: "6th Semester", courseName: "Operating Systems", shortName: "OS", aliases: ["OS"], isElective: false },
